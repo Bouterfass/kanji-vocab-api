@@ -1,0 +1,9410 @@
+[
+    {
+        "id": "1",
+        "level": 5,
+        "word": "浴びる",
+        "rom": "abiru",
+        "hiragana": "あびる",
+        "types": [
+            "Verb",
+            "Ichidan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to bathe",
+            "to shower"
+        ]
+    },
+    {
+        "id": "2",
+        "level": 5,
+        "word": "危ない",
+        "rom": "abunai",
+        "hiragana": "あぶない",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "dangerous"
+        ]
+    },
+    {
+        "id": "3",
+        "level": 5,
+        "word": "あっち",
+        "rom": "acchi",
+        "hiragana": "",
+        "types": [
+            "Pronoun"
+        ],
+        "translations": [
+            "over there"
+        ]
+    },
+    {
+        "id": "4",
+        "level": 5,
+        "word": "あちら",
+        "rom": "achira",
+        "hiragana": "",
+        "types": [
+            "Pronoun"
+        ],
+        "translations": [
+            "there"
+        ]
+    },
+    {
+        "id": "5",
+        "level": 5,
+        "word": "上げる",
+        "rom": "ageru",
+        "hiragana": "あげる",
+        "types": [
+            "Verb",
+            "Ichidan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to raise",
+            "to elevate"
+        ]
+    },
+    {
+        "id": "6",
+        "level": 5,
+        "word": "赤",
+        "rom": "aka",
+        "hiragana": "あか",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "red",
+            "crimson",
+            "scarlet​"
+        ]
+    },
+    {
+        "id": "7",
+        "level": 5,
+        "word": "赤い",
+        "rom": "akai",
+        "hiragana": "あかい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "red",
+            "crimson",
+            "scarlet​"
+        ]
+    },
+    {
+        "id": "8",
+        "level": 5,
+        "word": "明るい",
+        "rom": "akarui",
+        "hiragana": "あかるい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "bright",
+            "light"
+        ]
+    },
+    {
+        "id": "9",
+        "level": 5,
+        "word": "開ける",
+        "rom": "akeru",
+        "hiragana": "あける",
+        "types": [
+            "Verb",
+            "Ichidan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to open (a door",
+            "etc.)",
+            "to unwrap (e.g. parcel",
+            "package)",
+            "to unlock"
+        ]
+    },
+    {
+        "id": "10",
+        "level": 5,
+        "word": "秋",
+        "rom": "aki",
+        "hiragana": "あき",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "autumn",
+            "fall"
+        ]
+    },
+    {
+        "id": "11",
+        "level": 5,
+        "word": "開く",
+        "rom": "aku",
+        "hiragana": "あく",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to open (e.g. doors",
+            "business",
+            "etc)"
+        ]
+    },
+    {
+        "id": "12",
+        "level": 5,
+        "word": "甘い",
+        "rom": "amai",
+        "hiragana": "あまい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "sweet",
+            "sweet-tasting",
+            "sugary",
+            "naive",
+            "indulgent"
+        ]
+    },
+    {
+        "id": "13",
+        "level": 5,
+        "word": "飴",
+        "rom": "ame",
+        "hiragana": "あめ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "candy"
+        ]
+    },
+    {
+        "id": "14",
+        "level": 5,
+        "word": "雨",
+        "rom": "ame",
+        "hiragana": "あめ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "rain"
+        ]
+    },
+    {
+        "id": "15",
+        "level": 5,
+        "word": "あなた",
+        "rom": "anata",
+        "hiragana": "",
+        "types": [
+            "Pronoun"
+        ],
+        "translations": [
+            "you"
+        ]
+    },
+    {
+        "id": "16",
+        "level": 5,
+        "word": "姉",
+        "rom": "ane",
+        "hiragana": "あね",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "older sister",
+            "elder sister​"
+        ]
+    },
+    {
+        "id": "17",
+        "level": 5,
+        "word": "兄",
+        "rom": "ani",
+        "hiragana": "あに",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "elder brother",
+            "older brother​"
+        ]
+    },
+    {
+        "id": "18",
+        "level": 5,
+        "word": "あの",
+        "rom": "ano",
+        "hiragana": "",
+        "types": [
+            "Pre-noun adjectival"
+        ],
+        "translations": [
+            "that"
+        ]
+    },
+    {
+        "id": "19",
+        "level": 5,
+        "word": "青",
+        "rom": "ao",
+        "hiragana": "あお",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "blue",
+            "azure"
+        ]
+    },
+    {
+        "id": "20",
+        "level": 5,
+        "word": "青い",
+        "rom": "aoi",
+        "hiragana": "あおい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "blue",
+            "azure"
+        ]
+    },
+    {
+        "id": "21",
+        "level": 5,
+        "word": "アパート",
+        "rom": "apaato",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "apartment"
+        ]
+    },
+    {
+        "id": "22",
+        "level": 5,
+        "word": "洗う",
+        "rom": "arau",
+        "hiragana": "あらう",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to wash"
+        ]
+    },
+    {
+        "id": "23",
+        "level": 5,
+        "word": "あれ",
+        "rom": "are",
+        "hiragana": "",
+        "types": [
+            "Pronoun"
+        ],
+        "translations": [
+            "that"
+        ]
+    },
+    {
+        "id": "24",
+        "level": 5,
+        "word": "ある",
+        "rom": "aru",
+        "hiragana": "",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to be",
+            "to have"
+        ]
+    },
+    {
+        "id": "25",
+        "level": 5,
+        "word": "歩く",
+        "rom": "aruku",
+        "hiragana": "あるく",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to walk"
+        ]
+    },
+    {
+        "id": "26",
+        "level": 5,
+        "word": "朝",
+        "rom": "asa",
+        "hiragana": "あさ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "morning"
+        ]
+    },
+    {
+        "id": "27",
+        "level": 5,
+        "word": "朝ご飯",
+        "rom": "asagohan",
+        "hiragana": "あさごはん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "breakfast"
+        ]
+    },
+    {
+        "id": "28",
+        "level": 5,
+        "word": "明後日",
+        "rom": "asatte",
+        "hiragana": "あさって",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "day after tomorrow"
+        ]
+    },
+    {
+        "id": "29",
+        "level": 5,
+        "word": "足",
+        "rom": "ashi",
+        "hiragana": "あし",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "foot",
+            "leg",
+            "paw",
+            "arm"
+        ]
+    },
+    {
+        "id": "30",
+        "level": 5,
+        "word": "明日",
+        "rom": "ashita",
+        "hiragana": "あした",
+        "types": [
+            "Noun",
+            "Temporal noun"
+        ],
+        "translations": [
+            "tomorrow"
+        ]
+    },
+    {
+        "id": "31",
+        "level": 5,
+        "word": "遊ぶ",
+        "rom": "asobu",
+        "hiragana": "あそぶ",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to play",
+            "to enjoy oneself"
+        ]
+    },
+    {
+        "id": "32",
+        "level": 5,
+        "word": "あそこ",
+        "rom": "asoko",
+        "hiragana": "",
+        "types": [
+            "Pronoun"
+        ],
+        "translations": [
+            "over there"
+        ]
+    },
+    {
+        "id": "33",
+        "level": 5,
+        "word": "頭",
+        "rom": "atama",
+        "hiragana": "あたま",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "head"
+        ]
+    },
+    {
+        "id": "34",
+        "level": 5,
+        "word": "新しい",
+        "rom": "atarashii",
+        "hiragana": "あたらしい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "new",
+            "novel",
+            "fresh",
+            "recent",
+            "latest"
+        ]
+    },
+    {
+        "id": "35",
+        "level": 5,
+        "word": "暖かい",
+        "rom": "atatakai",
+        "hiragana": "あたたかい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "warm"
+        ]
+    },
+    {
+        "id": "36",
+        "level": 5,
+        "word": "後",
+        "rom": "ato",
+        "hiragana": "あと",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "behind",
+            "after",
+            "remainder",
+            "left",
+            "also"
+        ]
+    },
+    {
+        "id": "37",
+        "level": 5,
+        "word": "厚い",
+        "rom": "atsui",
+        "hiragana": "あつい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "thick"
+        ]
+    },
+    {
+        "id": "38",
+        "level": 5,
+        "word": "暑い",
+        "rom": "atsui",
+        "hiragana": "あつい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "hot",
+            "sultry"
+        ]
+    },
+    {
+        "id": "39",
+        "level": 5,
+        "word": "熱い",
+        "rom": "atsui",
+        "hiragana": "あつい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "hot"
+        ]
+    },
+    {
+        "id": "40",
+        "level": 5,
+        "word": "会う",
+        "rom": "au",
+        "hiragana": "あう",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to meet",
+            "to encounter",
+            "to see"
+        ]
+    },
+    {
+        "id": "41",
+        "level": 5,
+        "word": "晩ご飯",
+        "rom": "bangohan",
+        "hiragana": "ばんごはん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "dinner",
+            "evening meal"
+        ]
+    },
+    {
+        "id": "42",
+        "level": 5,
+        "word": "番号",
+        "rom": "bangou",
+        "hiragana": "ばんごう",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "number"
+        ]
+    },
+    {
+        "id": "43",
+        "level": 5,
+        "word": "バス",
+        "rom": "basu",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "bus"
+        ]
+    },
+    {
+        "id": "44",
+        "level": 5,
+        "word": "バター",
+        "rom": "bataa",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "butter​"
+        ]
+    },
+    {
+        "id": "45",
+        "level": 5,
+        "word": "ベッド",
+        "rom": "beddo",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "bed"
+        ]
+    },
+    {
+        "id": "46",
+        "level": 5,
+        "word": "勉強",
+        "rom": "benkyou",
+        "hiragana": "べんきょう",
+        "types": [
+            "Noun",
+            "Suru verb"
+        ],
+        "translations": [
+            "to study"
+        ]
+    },
+    {
+        "id": "47",
+        "level": 5,
+        "word": "便利",
+        "rom": "benri",
+        "hiragana": "べんり",
+        "types": [
+            "な-adjective"
+        ],
+        "translations": [
+            "convenient",
+            "handy",
+            "useful"
+        ]
+    },
+    {
+        "id": "48",
+        "level": 5,
+        "word": "ボールペン",
+        "rom": "boorupen",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "ball-point pen"
+        ]
+    },
+    {
+        "id": "49",
+        "level": 5,
+        "word": "ボタン",
+        "rom": "botan",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "button"
+        ]
+    },
+    {
+        "id": "50",
+        "level": 5,
+        "word": "帽子",
+        "rom": "boushi",
+        "hiragana": "ぼうし",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "hat",
+            "cap"
+        ]
+    },
+    {
+        "id": "51",
+        "level": 5,
+        "word": "文章",
+        "rom": "bunshou",
+        "hiragana": "ぶんしょう",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "sentence"
+        ]
+    },
+    {
+        "id": "52",
+        "level": 5,
+        "word": "豚肉",
+        "rom": "butaniku",
+        "hiragana": "ぶたにく",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "pork"
+        ]
+    },
+    {
+        "id": "53",
+        "level": 5,
+        "word": "病院",
+        "rom": "byouin",
+        "hiragana": "びょういん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "hospital"
+        ]
+    },
+    {
+        "id": "54",
+        "level": 5,
+        "word": "病気",
+        "rom": "byouki",
+        "hiragana": "びょうき",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "illness",
+            "disease",
+            "sickness"
+        ]
+    },
+    {
+        "id": "55",
+        "level": 5,
+        "word": "茶色",
+        "rom": "chairo",
+        "hiragana": "ちゃいろ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "brown"
+        ]
+    },
+    {
+        "id": "56",
+        "level": 5,
+        "word": "茶碗",
+        "rom": "chawan",
+        "hiragana": "ちゃわん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "rice bowl",
+            "tea cup",
+            "teacup"
+        ]
+    },
+    {
+        "id": "57",
+        "level": 5,
+        "word": "父",
+        "rom": "chichi",
+        "hiragana": "ちち",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "father"
+        ]
+    },
+    {
+        "id": "58",
+        "level": 5,
+        "word": "違う",
+        "rom": "chigau",
+        "hiragana": "ちがう",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to differ"
+        ]
+    },
+    {
+        "id": "59",
+        "level": 5,
+        "word": "小さい",
+        "rom": "chiisai",
+        "hiragana": "ちいさい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "small",
+            "little",
+            "tiny"
+        ]
+    },
+    {
+        "id": "60",
+        "level": 5,
+        "word": "小さな",
+        "rom": "chiisana",
+        "hiragana": "ちいさな",
+        "types": [
+            "Pre-noun adjectival"
+        ],
+        "translations": [
+            "small",
+            "little",
+            "tiny​"
+        ]
+    },
+    {
+        "id": "61",
+        "level": 5,
+        "word": "近い",
+        "rom": "chikai",
+        "hiragana": "ちかい",
+        "types": [
+            "い-adjective"
+        ],
+        "translations": [
+            "near",
+            "close"
+        ]
+    },
+    {
+        "id": "62",
+        "level": 5,
+        "word": "地下鉄",
+        "rom": "chikatetsu",
+        "hiragana": "ちかてつ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "subway",
+            "underground train"
+        ]
+    },
+    {
+        "id": "63",
+        "level": 5,
+        "word": "地図",
+        "rom": "chizu",
+        "hiragana": "ちず",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "map"
+        ]
+    },
+    {
+        "id": "64",
+        "level": 5,
+        "word": "ちょっと",
+        "rom": "chotto",
+        "hiragana": "",
+        "types": [
+            "Adverb"
+        ],
+        "translations": [
+            "a little"
+        ]
+    },
+    {
+        "id": "65",
+        "level": 5,
+        "word": "丁度",
+        "rom": "choudo",
+        "hiragana": "ちょうど",
+        "types": [
+            "Adverb"
+        ],
+        "translations": [
+            "exactly"
+        ]
+    },
+    {
+        "id": "66",
+        "level": 5,
+        "word": "台所",
+        "rom": "daidokoro",
+        "hiragana": "だいどころ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "kitchen"
+        ]
+    },
+    {
+        "id": "67",
+        "level": 5,
+        "word": "大学",
+        "rom": "daigaku",
+        "hiragana": "だいがく",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "university",
+            "college"
+        ]
+    },
+    {
+        "id": "68",
+        "level": 5,
+        "word": "大丈夫",
+        "rom": "daijoubu",
+        "hiragana": "だいじょうぶ",
+        "types": [
+            "Adjective",
+            "な-adjective",
+            "Adverb"
+        ],
+        "translations": [
+            "OK",
+            "okay",
+            "alright",
+            "problem free"
+        ]
+    },
+    {
+        "id": "69",
+        "level": 5,
+        "word": "大好き",
+        "rom": "daisuki",
+        "hiragana": "だいすき",
+        "types": [
+            "Adjective",
+            "な-adjective"
+        ],
+        "translations": [
+            "love",
+            "like",
+            "like very much"
+        ]
+    },
+    {
+        "id": "70",
+        "level": 5,
+        "word": "だんだん",
+        "rom": "dandan",
+        "hiragana": "",
+        "types": [
+            "Adverb"
+        ],
+        "translations": [
+            "gradually"
+        ]
+    },
+    {
+        "id": "71",
+        "level": 5,
+        "word": "誰",
+        "rom": "dare",
+        "hiragana": "だれ",
+        "types": [
+            "Pronoun"
+        ],
+        "translations": [
+            "who"
+        ]
+    },
+    {
+        "id": "72",
+        "level": 5,
+        "word": "誰か",
+        "rom": "dareka",
+        "hiragana": "だれか",
+        "types": [
+            "Pronoun"
+        ],
+        "translations": [
+            "someone",
+            "somebody"
+        ]
+    },
+    {
+        "id": "73",
+        "level": 5,
+        "word": "出す",
+        "rom": "dasu",
+        "hiragana": "だす",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to take out",
+            "to get out",
+            "to put out",
+            "to reveal"
+        ]
+    },
+    {
+        "id": "74",
+        "level": 5,
+        "word": "出口",
+        "rom": "deguchi",
+        "hiragana": "でぐち",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "exit",
+            "gateway",
+            "way out"
+        ]
+    },
+    {
+        "id": "75",
+        "level": 5,
+        "word": "出かける",
+        "rom": "dekakeru",
+        "hiragana": "でかける",
+        "types": [
+            "Verb",
+            "Ichidan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to go out",
+            "to leave",
+            "to depart"
+        ]
+    },
+    {
+        "id": "76",
+        "level": 5,
+        "word": "電気",
+        "rom": "denki",
+        "hiragana": "でんき",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "electricity"
+        ]
+    },
+    {
+        "id": "77",
+        "level": 5,
+        "word": "電車",
+        "rom": "densha",
+        "hiragana": "でんしゃ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "train",
+            "electric train"
+        ]
+    },
+    {
+        "id": "78",
+        "level": 5,
+        "word": "電話",
+        "rom": "denwa",
+        "hiragana": "でんわ",
+        "types": [
+            "Noun",
+            "Verb",
+            "Suru verb"
+        ],
+        "translations": [
+            "telephone (call",
+            "device)l",
+            "phone call"
+        ]
+    },
+    {
+        "id": "79",
+        "level": 5,
+        "word": "デパート",
+        "rom": "depaato",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "department store"
+        ]
+    },
+    {
+        "id": "80",
+        "level": 5,
+        "word": "出る",
+        "rom": "deru",
+        "hiragana": "でる",
+        "types": [
+            "Verb",
+            "Ichidan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to leave",
+            "to exit",
+            "to appear",
+            "to go out"
+        ]
+    },
+    {
+        "id": "81",
+        "level": 5,
+        "word": "ドア",
+        "rom": "doa",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "door"
+        ]
+    },
+    {
+        "id": "82",
+        "level": 5,
+        "word": "どっち",
+        "rom": "docchi",
+        "hiragana": "",
+        "types": [
+            "Pronoun"
+        ],
+        "translations": [
+            "which",
+            "which one"
+        ]
+    },
+    {
+        "id": "83",
+        "level": 5,
+        "word": "どちら",
+        "rom": "dochira",
+        "hiragana": "",
+        "types": [
+            "Pronoun"
+        ],
+        "translations": [
+            "which of two"
+        ]
+    },
+    {
+        "id": "84",
+        "level": 5,
+        "word": "どこ",
+        "rom": "doko",
+        "hiragana": "",
+        "types": [
+            "Pronoun"
+        ],
+        "translations": [
+            "where",
+            "what place​"
+        ]
+    },
+    {
+        "id": "85",
+        "level": 5,
+        "word": "どなた",
+        "rom": "donata",
+        "hiragana": "",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "who"
+        ]
+    },
+    {
+        "id": "86",
+        "level": 5,
+        "word": "どの",
+        "rom": "dono",
+        "hiragana": "",
+        "types": [
+            "Pre-noun adjectival"
+        ],
+        "translations": [
+            "which"
+        ]
+    },
+    {
+        "id": "87",
+        "level": 5,
+        "word": "どれ",
+        "rom": "dore",
+        "hiragana": "",
+        "types": [
+            "Pronoun"
+        ],
+        "translations": [
+            "which (of three or more)​"
+        ]
+    },
+    {
+        "id": "88",
+        "level": 5,
+        "word": "どう",
+        "rom": "dou",
+        "hiragana": "",
+        "types": [
+            "Adverb"
+        ],
+        "translations": [
+            "how",
+            "in what way",
+            "how about​"
+        ]
+    },
+    {
+        "id": "89",
+        "level": 5,
+        "word": "動物",
+        "rom": "doubutsu",
+        "hiragana": "どうぶつ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "animal"
+        ]
+    },
+    {
+        "id": "90",
+        "level": 5,
+        "word": "どうも",
+        "rom": "doumo",
+        "hiragana": "",
+        "types": [
+            "Adverb"
+        ],
+        "translations": [
+            "thank you",
+            "thanks"
+        ]
+    },
+    {
+        "id": "91",
+        "level": 5,
+        "word": "どうぞ",
+        "rom": "douzo",
+        "hiragana": "",
+        "types": [
+            "Adverb"
+        ],
+        "translations": [
+            "please"
+        ]
+    },
+    {
+        "id": "92",
+        "level": 5,
+        "word": "土曜日",
+        "rom": "doyoubi",
+        "hiragana": "どようび",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "Saturday"
+        ]
+    },
+    {
+        "id": "93",
+        "level": 5,
+        "word": "絵",
+        "rom": "e",
+        "hiragana": "え",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "picture"
+        ]
+    },
+    {
+        "id": "94",
+        "level": 5,
+        "word": "ええ",
+        "rom": "ee",
+        "hiragana": "",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "yes",
+            "that is correct",
+            "right"
+        ]
+    },
+    {
+        "id": "95",
+        "level": 5,
+        "word": "映画",
+        "rom": "eiga",
+        "hiragana": "えいが",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "movie",
+            "film"
+        ]
+    },
+    {
+        "id": "96",
+        "level": 5,
+        "word": "映画館",
+        "rom": "eigakan",
+        "hiragana": "えいがかん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "movie theater",
+            "cinema"
+        ]
+    },
+    {
+        "id": "97",
+        "level": 5,
+        "word": "英語",
+        "rom": "eigo",
+        "hiragana": "えいご",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "English language"
+        ]
+    },
+    {
+        "id": "98",
+        "level": 5,
+        "word": "駅",
+        "rom": "eki",
+        "hiragana": "えき",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "station"
+        ]
+    },
+    {
+        "id": "99",
+        "level": 5,
+        "word": "鉛筆",
+        "rom": "enpitsu",
+        "hiragana": "えんぴつ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "pencil"
+        ]
+    },
+    {
+        "id": "100",
+        "level": 5,
+        "word": "エレベーター",
+        "rom": "erebeetaa",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "elevator"
+        ]
+    },
+    {
+        "id": "100",
+        "level": 5,
+        "word": "エレベーター",
+        "rom": "erebeetaa",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "elevator"
+        ]
+    },
+    {
+        "id": "101",
+        "level": 5,
+        "word": "フィルム",
+        "rom": "firumu",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "film"
+        ]
+    },
+    {
+        "id": "102",
+        "level": 5,
+        "word": "フォーク",
+        "rom": "fooku",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "fork"
+        ]
+    },
+    {
+        "id": "103",
+        "level": 5,
+        "word": "吹く",
+        "rom": "fuku",
+        "hiragana": "ふく",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to blow (of the wind)"
+        ]
+    },
+    {
+        "id": "104",
+        "level": 5,
+        "word": "服",
+        "rom": "fuku",
+        "hiragana": "ふく",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "clothes"
+        ]
+    },
+    {
+        "id": "105",
+        "level": 5,
+        "word": "降る",
+        "rom": "furu",
+        "hiragana": "ふる",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to fall"
+        ]
+    },
+    {
+        "id": "106",
+        "level": 5,
+        "word": "古い",
+        "rom": "furui",
+        "hiragana": "ふるい",
+        "types": [
+            "い-adjective"
+        ],
+        "translations": [
+            "old (not used for people)"
+        ]
+    },
+    {
+        "id": "107",
+        "level": 5,
+        "word": "二人",
+        "rom": "futari",
+        "hiragana": "ふたり",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "two people",
+            "pair",
+            "couple"
+        ]
+    },
+    {
+        "id": "108",
+        "level": 5,
+        "word": "二つ",
+        "rom": "futatsu",
+        "hiragana": "ふたつ",
+        "types": [
+            "Noun",
+            "Numeric"
+        ],
+        "translations": [
+            "two",
+            "2"
+        ]
+    },
+    {
+        "id": "109",
+        "level": 5,
+        "word": "太い",
+        "rom": "futoi",
+        "hiragana": "ふとい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "fat",
+            "thick"
+        ]
+    },
+    {
+        "id": "110",
+        "level": 5,
+        "word": "二日",
+        "rom": "futsuka",
+        "hiragana": "ふつか",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "the second day of the month",
+            "2 days"
+        ]
+    },
+    {
+        "id": "111",
+        "level": 5,
+        "word": "封筒",
+        "rom": "fuutou",
+        "hiragana": "ふうとう",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "envelope"
+        ]
+    },
+    {
+        "id": "112",
+        "level": 5,
+        "word": "冬",
+        "rom": "fuyu",
+        "hiragana": "ふゆ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "winter"
+        ]
+    },
+    {
+        "id": "113",
+        "level": 5,
+        "word": "外国",
+        "rom": "gaikoku",
+        "hiragana": "がいこく",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "foreign country"
+        ]
+    },
+    {
+        "id": "114",
+        "level": 5,
+        "word": "外国人",
+        "rom": "gaikokujin",
+        "hiragana": "がいこくじん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "foreigner",
+            "foreign citizen",
+            "foreign national",
+            "alien",
+            "non-Japanese"
+        ]
+    },
+    {
+        "id": "115",
+        "level": 5,
+        "word": "学校",
+        "rom": "gakkou",
+        "hiragana": "がっこう",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "school"
+        ]
+    },
+    {
+        "id": "116",
+        "level": 5,
+        "word": "学生",
+        "rom": "gakusei",
+        "hiragana": "がくせい",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "student"
+        ]
+    },
+    {
+        "id": "117",
+        "level": 5,
+        "word": "玄関",
+        "rom": "genkan",
+        "hiragana": "げんかん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "entrance"
+        ]
+    },
+    {
+        "id": "118",
+        "level": 5,
+        "word": "元気",
+        "rom": "genki",
+        "hiragana": "げんき",
+        "types": [
+            "Noun",
+            "Adjective",
+            "な-adjective"
+        ],
+        "translations": [
+            "lively",
+            "full of spirit",
+            "energetic",
+            "healthy"
+        ]
+    },
+    {
+        "id": "119",
+        "level": 5,
+        "word": "月曜日",
+        "rom": "getsuyoubi",
+        "hiragana": "げつようび",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "Monday"
+        ]
+    },
+    {
+        "id": "120",
+        "level": 5,
+        "word": "銀行",
+        "rom": "ginkou",
+        "hiragana": "ぎんこう",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "bank"
+        ]
+    },
+    {
+        "id": "121",
+        "level": 5,
+        "word": "ギター",
+        "rom": "gitaa",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "guitar"
+        ]
+    },
+    {
+        "id": "122",
+        "level": 5,
+        "word": "五",
+        "rom": "go",
+        "hiragana": "ご",
+        "types": [
+            "Noun",
+            "Numeric"
+        ],
+        "translations": [
+            "five",
+            "5"
+        ]
+    },
+    {
+        "id": "123",
+        "level": 5,
+        "word": "午後",
+        "rom": "gogo",
+        "hiragana": "ごご",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "afternoon",
+            "p.m."
+        ]
+    },
+    {
+        "id": "124",
+        "level": 5,
+        "word": "ご飯",
+        "rom": "gohan",
+        "hiragana": "ごはん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "cooked rice",
+            "meal"
+        ]
+    },
+    {
+        "id": "125",
+        "level": 5,
+        "word": "午前",
+        "rom": "gozen",
+        "hiragana": "ごぜん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "morning",
+            "a.m."
+        ]
+    },
+    {
+        "id": "126",
+        "level": 5,
+        "word": "グラム",
+        "rom": "guramu",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "gram"
+        ]
+    },
+    {
+        "id": "127",
+        "level": 5,
+        "word": "牛肉",
+        "rom": "gyuuniku",
+        "hiragana": "ぎゅうにく",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "beef"
+        ]
+    },
+    {
+        "id": "128",
+        "level": 5,
+        "word": "牛乳",
+        "rom": "gyuunyuu",
+        "hiragana": "ぎゅうにゅう",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "(cow's) milk"
+        ]
+    },
+    {
+        "id": "129",
+        "level": 5,
+        "word": "歯",
+        "rom": "ha",
+        "hiragana": "は",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "tooth"
+        ]
+    },
+    {
+        "id": "130",
+        "level": 5,
+        "word": "八",
+        "rom": "hachi",
+        "hiragana": "はち",
+        "types": [
+            "Noun",
+            "Numeric"
+        ],
+        "translations": [
+            "eight: 8"
+        ]
+    },
+    {
+        "id": "131",
+        "level": 5,
+        "word": "葉書",
+        "rom": "hagaki",
+        "hiragana": "はがき",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "postcard"
+        ]
+    },
+    {
+        "id": "132",
+        "level": 5,
+        "word": "母",
+        "rom": "haha",
+        "hiragana": "はは",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "mother"
+        ]
+    },
+    {
+        "id": "133",
+        "level": 5,
+        "word": "はい",
+        "rom": "hai",
+        "hiragana": "",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "yes",
+            "that is correct​"
+        ]
+    },
+    {
+        "id": "134",
+        "level": 5,
+        "word": "入る",
+        "rom": "hairu",
+        "hiragana": "はいる",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to enter",
+            "to go into"
+        ]
+    },
+    {
+        "id": "135",
+        "level": 5,
+        "word": "灰皿",
+        "rom": "haizara",
+        "hiragana": "はいざら",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "ashtray"
+        ]
+    },
+    {
+        "id": "136",
+        "level": 5,
+        "word": "始まる",
+        "rom": "hajimaru",
+        "hiragana": "はじまる",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to begin"
+        ]
+    },
+    {
+        "id": "137",
+        "level": 5,
+        "word": "初めて",
+        "rom": "hajimete",
+        "hiragana": "はじめて",
+        "types": [
+            "Adverb"
+        ],
+        "translations": [
+            "for the first time"
+        ]
+    },
+    {
+        "id": "138",
+        "level": 5,
+        "word": "箱",
+        "rom": "hako",
+        "hiragana": "はこ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "box",
+            "crate"
+        ]
+    },
+    {
+        "id": "139",
+        "level": 5,
+        "word": "履く",
+        "rom": "haku",
+        "hiragana": "はく",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to wear",
+            "to put on trousers"
+        ]
+    },
+    {
+        "id": "140",
+        "level": 5,
+        "word": "半",
+        "rom": "han",
+        "hiragana": "はん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "half",
+            "semi-",
+            "half-past"
+        ]
+    },
+    {
+        "id": "141",
+        "level": 5,
+        "word": "花",
+        "rom": "hana",
+        "hiragana": "はな",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "flower"
+        ]
+    },
+    {
+        "id": "142",
+        "level": 5,
+        "word": "鼻",
+        "rom": "hana",
+        "hiragana": "はな",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "nose"
+        ]
+    },
+    {
+        "id": "143",
+        "level": 5,
+        "word": "話",
+        "rom": "hanashi",
+        "hiragana": "はなし",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "talk",
+            "speech",
+            "chat",
+            "conversation​"
+        ]
+    },
+    {
+        "id": "144",
+        "level": 5,
+        "word": "話す",
+        "rom": "hanasu",
+        "hiragana": "はなす",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to speak",
+            "to talk",
+            "to converse"
+        ]
+    },
+    {
+        "id": "145",
+        "level": 5,
+        "word": "半分",
+        "rom": "hanbun",
+        "hiragana": "はんぶん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "half"
+        ]
+    },
+    {
+        "id": "146",
+        "level": 5,
+        "word": "ハンカチ",
+        "rom": "hankachi",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "handkerchief​"
+        ]
+    },
+    {
+        "id": "147",
+        "level": 5,
+        "word": "晴れ",
+        "rom": "hare",
+        "hiragana": "はれ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "clear weather"
+        ]
+    },
+    {
+        "id": "148",
+        "level": 5,
+        "word": "晴れる",
+        "rom": "hareru",
+        "hiragana": "はれる",
+        "types": [
+            "Verb",
+            "Ichidan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to be sunny"
+        ]
+    },
+    {
+        "id": "149",
+        "level": 5,
+        "word": "貼る",
+        "rom": "haru",
+        "hiragana": "はる",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to stick",
+            "to paste"
+        ]
+    },
+    {
+        "id": "150",
+        "level": 5,
+        "word": "春",
+        "rom": "haru",
+        "hiragana": "はる",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "spring",
+            "springtime"
+        ]
+    },
+    {
+        "id": "151",
+        "level": 5,
+        "word": "箸",
+        "rom": "hashi",
+        "hiragana": "はし",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "chopsticks"
+        ]
+    },
+    {
+        "id": "152",
+        "level": 5,
+        "word": "橋",
+        "rom": "hashi",
+        "hiragana": "はし",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "bridge"
+        ]
+    },
+    {
+        "id": "153",
+        "level": 5,
+        "word": "走る",
+        "rom": "hashiru",
+        "hiragana": "はしる",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to run"
+        ]
+    },
+    {
+        "id": "154",
+        "level": 5,
+        "word": "二十歳",
+        "rom": "hatachi",
+        "hiragana": "はたち",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "20 years old",
+            "twenty years old"
+        ]
+    },
+    {
+        "id": "155",
+        "level": 5,
+        "word": "働く",
+        "rom": "hataraku",
+        "hiragana": "はたらく",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to work"
+        ]
+    },
+    {
+        "id": "156",
+        "level": 5,
+        "word": "二十日",
+        "rom": "hatsuka",
+        "hiragana": "はつか",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "twentieth day of the month",
+            "20 days"
+        ]
+    },
+    {
+        "id": "157",
+        "level": 5,
+        "word": "早い",
+        "rom": "hayai",
+        "hiragana": "はやい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "fast",
+            "early"
+        ]
+    },
+    {
+        "id": "158",
+        "level": 5,
+        "word": "速い",
+        "rom": "hayai",
+        "hiragana": "はやい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "fast",
+            "quick",
+            "hasty",
+            "brisk"
+        ]
+    },
+    {
+        "id": "159",
+        "level": 5,
+        "word": "辺",
+        "rom": "hen",
+        "hiragana": "へん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "area"
+        ]
+    },
+    {
+        "id": "160",
+        "level": 5,
+        "word": "下手",
+        "rom": "heta",
+        "hiragana": "へた",
+        "types": [
+            "Noun",
+            "Adjective",
+            "な-adjective"
+        ],
+        "translations": [
+            "unskillful",
+            "poor",
+            "awkward​"
+        ]
+    },
+    {
+        "id": "161",
+        "level": 5,
+        "word": "部屋",
+        "rom": "heya",
+        "hiragana": "へや",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "room"
+        ]
+    },
+    {
+        "id": "162",
+        "level": 5,
+        "word": "左",
+        "rom": "hidari",
+        "hiragana": "ひだり",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "left",
+            "left hand side"
+        ]
+    },
+    {
+        "id": "163",
+        "level": 5,
+        "word": "東",
+        "rom": "higashi",
+        "hiragana": "ひがし",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "east"
+        ]
+    },
+    {
+        "id": "164",
+        "level": 5,
+        "word": "飛行機",
+        "rom": "hikouki",
+        "hiragana": "ひこうき",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "airplane",
+            "aircraft"
+        ]
+    },
+    {
+        "id": "165",
+        "level": 5,
+        "word": "引く",
+        "rom": "hiku",
+        "hiragana": "ひく",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to pull"
+        ]
+    },
+    {
+        "id": "166",
+        "level": 5,
+        "word": "弾く",
+        "rom": "hiku",
+        "hiragana": "ひく",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to play"
+        ]
+    },
+    {
+        "id": "167",
+        "level": 5,
+        "word": "低い",
+        "rom": "hikui",
+        "hiragana": "ひくい",
+        "types": [
+            "い-adjective"
+        ],
+        "translations": [
+            "short",
+            "low"
+        ]
+    },
+    {
+        "id": "168",
+        "level": 5,
+        "word": "暇",
+        "rom": "hima",
+        "hiragana": "ひま",
+        "types": [
+            "Noun",
+            "な-adjective"
+        ],
+        "translations": [
+            "free time"
+        ]
+    },
+    {
+        "id": "169",
+        "level": 5,
+        "word": "広い",
+        "rom": "hiroi",
+        "hiragana": "ひろい",
+        "types": [
+            "い-adjective"
+        ],
+        "translations": [
+            "spacious",
+            "vast",
+            "wide"
+        ]
+    },
+    {
+        "id": "170",
+        "level": 5,
+        "word": "昼",
+        "rom": "hiru",
+        "hiragana": "ひる",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "noon",
+            "midday",
+            "daytime",
+            "lunch"
+        ]
+    },
+    {
+        "id": "171",
+        "level": 5,
+        "word": "昼ご飯",
+        "rom": "hirugohan",
+        "hiragana": "ひるごはん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "lunch"
+        ]
+    },
+    {
+        "id": "172",
+        "level": 5,
+        "word": "人",
+        "rom": "hito",
+        "hiragana": "ひと",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "person",
+            "human"
+        ]
+    },
+    {
+        "id": "173",
+        "level": 5,
+        "word": "一人",
+        "rom": "hitori",
+        "hiragana": "ひとり",
+        "types": [
+            "Noun",
+            "Adverb"
+        ],
+        "translations": [
+            "one person​",
+            "alone",
+            "single"
+        ]
+    },
+    {
+        "id": "174",
+        "level": 5,
+        "word": "一つ",
+        "rom": "hitotsu",
+        "hiragana": "ひとつ",
+        "types": [
+            "Noun",
+            "Numeric"
+        ],
+        "translations": [
+            "one thing",
+            "only"
+        ]
+    },
+    {
+        "id": "175",
+        "level": 5,
+        "word": "ほか",
+        "rom": "hoka",
+        "hiragana": "",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "other (place",
+            "thing",
+            "person)",
+            "the rest"
+        ]
+    },
+    {
+        "id": "176",
+        "level": 5,
+        "word": "本",
+        "rom": "hon",
+        "hiragana": "ほん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "book",
+            "volume",
+            "script"
+        ]
+    },
+    {
+        "id": "177",
+        "level": 5,
+        "word": "本棚",
+        "rom": "hondana",
+        "hiragana": "ほんだな",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "bookshelf",
+            "bookcase"
+        ]
+    },
+    {
+        "id": "178",
+        "level": 5,
+        "word": "本当",
+        "rom": "hontou",
+        "hiragana": "ほんとう",
+        "types": [
+            "Noun",
+            "Adjective",
+            "な-adjective"
+        ],
+        "translations": [
+            "truth",
+            "reality",
+            "actuality",
+            "fact"
+        ]
+    },
+    {
+        "id": "179",
+        "level": 5,
+        "word": "欲しい",
+        "rom": "hoshii",
+        "hiragana": "ほしい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "want"
+        ]
+    },
+    {
+        "id": "180",
+        "level": 5,
+        "word": "細い",
+        "rom": "hosoi",
+        "hiragana": "ほそい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "thin",
+            "slender"
+        ]
+    },
+    {
+        "id": "181",
+        "level": 5,
+        "word": "ホテル",
+        "rom": "hoteru",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "hotel"
+        ]
+    },
+    {
+        "id": "182",
+        "level": 5,
+        "word": "百",
+        "rom": "hyaku",
+        "hiragana": "ひゃく",
+        "types": [
+            "Noun",
+            "Numeric"
+        ],
+        "translations": [
+            "100",
+            "hundred"
+        ]
+    },
+    {
+        "id": "183",
+        "level": 5,
+        "word": "一",
+        "rom": "ichi",
+        "hiragana": "いち",
+        "types": [
+            "Noun",
+            "Prefix",
+            "Suffix",
+            "Numeric"
+        ],
+        "translations": [
+            "one",
+            "best",
+            "first",
+            "foremost",
+            "start"
+        ]
+    },
+    {
+        "id": "184",
+        "level": 5,
+        "word": "一番",
+        "rom": "ichiban",
+        "hiragana": "いちばん",
+        "types": [
+            "Noun",
+            "Adverb"
+        ],
+        "translations": [
+            "number one",
+            "first",
+            "1st",
+            "first place​",
+            "best",
+            "most​"
+        ]
+    },
+    {
+        "id": "185",
+        "level": 5,
+        "word": "一日",
+        "rom": "ichinichi",
+        "hiragana": "いちにち",
+        "types": [
+            "Noun",
+            "Adverbial Noun"
+        ],
+        "translations": [
+            "one day",
+            "all day"
+        ]
+    },
+    {
+        "id": "186",
+        "level": 5,
+        "word": "家",
+        "rom": "ie",
+        "hiragana": "いえ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "house",
+            "residence",
+            "family"
+        ]
+    },
+    {
+        "id": "187",
+        "level": 5,
+        "word": "いかが",
+        "rom": "ikaga",
+        "hiragana": "",
+        "types": [
+            "Adverb"
+        ],
+        "translations": [
+            "how",
+            "in what way",
+            "how about​"
+        ]
+    },
+    {
+        "id": "188",
+        "level": 5,
+        "word": "池",
+        "rom": "ike",
+        "hiragana": "いけ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "pond"
+        ]
+    },
+    {
+        "id": "189",
+        "level": 5,
+        "word": "行く",
+        "rom": "iku",
+        "hiragana": "いく",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to go",
+            "to move"
+        ]
+    },
+    {
+        "id": "190",
+        "level": 5,
+        "word": "いくら",
+        "rom": "ikura",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Adverb"
+        ],
+        "translations": [
+            "how much?",
+            "how many?​"
+        ]
+    },
+    {
+        "id": "191",
+        "level": 5,
+        "word": "いくつ",
+        "rom": "ikutsu",
+        "hiragana": "",
+        "types": [
+            "Adverb"
+        ],
+        "translations": [
+            "how many?",
+            "how old?"
+        ]
+    },
+    {
+        "id": "192",
+        "level": 5,
+        "word": "今",
+        "rom": "ima",
+        "hiragana": "いま",
+        "types": [
+            "Noun",
+            "Adverbial Noun"
+        ],
+        "translations": [
+            "now",
+            "the present time",
+            "soon"
+        ]
+    },
+    {
+        "id": "193",
+        "level": 5,
+        "word": "意味",
+        "rom": "imi",
+        "hiragana": "いみ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "meaning",
+            "significance",
+            "sense"
+        ]
+    },
+    {
+        "id": "194",
+        "level": 5,
+        "word": "妹",
+        "rom": "imouto",
+        "hiragana": "いもうと",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "younger sister"
+        ]
+    },
+    {
+        "id": "195",
+        "level": 5,
+        "word": "犬",
+        "rom": "inu",
+        "hiragana": "いぬ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "dog"
+        ]
+    },
+    {
+        "id": "196",
+        "level": 5,
+        "word": "入れる",
+        "rom": "ireru",
+        "hiragana": "いれる",
+        "types": [
+            "Verb",
+            "Ichidan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to put in",
+            "to let in",
+            "to take in",
+            "to bring in",
+            "to insert",
+            "to install"
+        ]
+    },
+    {
+        "id": "197",
+        "level": 5,
+        "word": "入口",
+        "rom": "iriguchi",
+        "hiragana": "いりぐち",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "entrance",
+            "entry",
+            "gate"
+        ]
+    },
+    {
+        "id": "198",
+        "level": 5,
+        "word": "色",
+        "rom": "iro",
+        "hiragana": "いろ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "colour",
+            "color"
+        ]
+    },
+    {
+        "id": "199",
+        "level": 5,
+        "word": "色々",
+        "rom": "iroiro",
+        "hiragana": "いろいろ",
+        "types": [
+            "Noun",
+            "Adjective",
+            "な-adjective",
+            "Adverb"
+        ],
+        "translations": [
+            "various"
+        ]
+    },
+    {
+        "id": "200",
+        "level": 5,
+        "word": "居る",
+        "rom": "iru",
+        "hiragana": "いる",
+        "types": [
+            "Verb",
+            "Ichidan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to be",
+            "to have"
+        ]
+    },
+    {
+        "id": "200",
+        "level": 5,
+        "word": "居る",
+        "rom": "iru",
+        "hiragana": "いる",
+        "types": [
+            "Verb",
+            "Ichidan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to be",
+            "to have"
+        ]
+    },
+    {
+        "id": "201",
+        "level": 5,
+        "word": "要る",
+        "rom": "iru",
+        "hiragana": "いる",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to be needed"
+        ]
+    },
+    {
+        "id": "202",
+        "level": 5,
+        "word": "医者",
+        "rom": "isha",
+        "hiragana": "いしゃ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "(medical) doctor",
+            "physician"
+        ]
+    },
+    {
+        "id": "203",
+        "level": 5,
+        "word": "忙しい",
+        "rom": "isogashii",
+        "hiragana": "いそがしい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "busy"
+        ]
+    },
+    {
+        "id": "204",
+        "level": 5,
+        "word": "一緒",
+        "rom": "issho",
+        "hiragana": "いっしょ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "together",
+            "at the same time",
+            "same",
+            "identical"
+        ]
+    },
+    {
+        "id": "205",
+        "level": 5,
+        "word": "椅子",
+        "rom": "isu",
+        "hiragana": "いす",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "chair"
+        ]
+    },
+    {
+        "id": "206",
+        "level": 5,
+        "word": "痛い",
+        "rom": "itai",
+        "hiragana": "いたい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "painful",
+            "sore​"
+        ]
+    },
+    {
+        "id": "207",
+        "level": 5,
+        "word": "いつ",
+        "rom": "itsu",
+        "hiragana": "",
+        "types": [
+            "Pronoun"
+        ],
+        "translations": [
+            "when"
+        ]
+    },
+    {
+        "id": "208",
+        "level": 5,
+        "word": "五日",
+        "rom": "itsuka",
+        "hiragana": "いつか",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "the fifth day of the month",
+            "5 days"
+        ]
+    },
+    {
+        "id": "209",
+        "level": 5,
+        "word": "五つ",
+        "rom": "itsutsu",
+        "hiragana": "いつつ",
+        "types": [
+            "Noun",
+            "Numeric"
+        ],
+        "translations": [
+            "five",
+            "5"
+        ]
+    },
+    {
+        "id": "210",
+        "level": 5,
+        "word": "言う",
+        "rom": "iu",
+        "hiragana": "いう",
+        "types": [
+            "Verb",
+            "Godan verb"
+        ],
+        "translations": [
+            "to say",
+            "to call"
+        ]
+    },
+    {
+        "id": "211",
+        "level": 5,
+        "word": "嫌",
+        "rom": "iya",
+        "hiragana": "いや",
+        "types": [
+            "Noun",
+            "Adjective",
+            "な-adjective"
+        ],
+        "translations": [
+            "unpleasant"
+        ]
+    },
+    {
+        "id": "212",
+        "level": 5,
+        "word": "じゃあ",
+        "rom": "jaa",
+        "hiragana": "",
+        "types": [
+            "Conjunction"
+        ],
+        "translations": [
+            "then",
+            "well",
+            "so",
+            "well then"
+        ]
+    },
+    {
+        "id": "213",
+        "level": 5,
+        "word": "字引",
+        "rom": "jibiki",
+        "hiragana": "じびき",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "dictionary"
+        ]
+    },
+    {
+        "id": "214",
+        "level": 5,
+        "word": "自分",
+        "rom": "jibun",
+        "hiragana": "じぶん",
+        "types": [
+            "Pronoun"
+        ],
+        "translations": [
+            "myself",
+            "yourself",
+            "oneself",
+            "himself",
+            "herself",
+            "i",
+            "me"
+        ]
+    },
+    {
+        "id": "215",
+        "level": 5,
+        "word": "自動車",
+        "rom": "jidousha",
+        "hiragana": "じどうしゃ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "automobile",
+            "motorcar",
+            "motor vehicle",
+            "car"
+        ]
+    },
+    {
+        "id": "216",
+        "level": 5,
+        "word": "時間",
+        "rom": "jikan",
+        "hiragana": "じかん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "time",
+            "hour(s)"
+        ]
+    },
+    {
+        "id": "217",
+        "level": 5,
+        "word": "辞書",
+        "rom": "jisho",
+        "hiragana": "じしょ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "dictionary"
+        ]
+    },
+    {
+        "id": "218",
+        "level": 5,
+        "word": "自転車",
+        "rom": "jitensha",
+        "hiragana": "じてんしゃ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "bicycle"
+        ]
+    },
+    {
+        "id": "219",
+        "level": 5,
+        "word": "丈夫",
+        "rom": "joubu",
+        "hiragana": "じょうぶ",
+        "types": [
+            "Adjective",
+            "な-adjective"
+        ],
+        "translations": [
+            "strong",
+            "durable"
+        ]
+    },
+    {
+        "id": "220",
+        "level": 5,
+        "word": "上手",
+        "rom": "jouzu",
+        "hiragana": "じょうず",
+        "types": [
+            "Noun",
+            "Adjective",
+            "な-adjective"
+        ],
+        "translations": [
+            "skillful",
+            "skilled",
+            "proficient",
+            "good (at)"
+        ]
+    },
+    {
+        "id": "221",
+        "level": 5,
+        "word": "授業",
+        "rom": "jugyou",
+        "hiragana": "じゅぎょう",
+        "types": [
+            "Noun",
+            "Suru verb"
+        ],
+        "translations": [
+            "lesson",
+            "class work"
+        ]
+    },
+    {
+        "id": "222",
+        "level": 5,
+        "word": "十",
+        "rom": "juu",
+        "hiragana": "じゅう",
+        "types": [
+            "Noun",
+            "Numeric"
+        ],
+        "translations": [
+            "ten",
+            "10"
+        ]
+    },
+    {
+        "id": "223",
+        "level": 5,
+        "word": "かばん",
+        "rom": "kaban",
+        "hiragana": "",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "bag",
+            "basket​"
+        ]
+    },
+    {
+        "id": "224",
+        "level": 5,
+        "word": "花瓶",
+        "rom": "kabin",
+        "hiragana": "かびん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "a vase"
+        ]
+    },
+    {
+        "id": "225",
+        "level": 5,
+        "word": "角",
+        "rom": "kado",
+        "hiragana": "かど",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "a corner",
+            "angle​"
+        ]
+    },
+    {
+        "id": "226",
+        "level": 5,
+        "word": "帰る",
+        "rom": "kaeru",
+        "hiragana": "かえる",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to go back​"
+        ]
+    },
+    {
+        "id": "227",
+        "level": 5,
+        "word": "返す",
+        "rom": "kaesu",
+        "hiragana": "かえす",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to return something"
+        ]
+    },
+    {
+        "id": "228",
+        "level": 5,
+        "word": "鍵",
+        "rom": "kagi",
+        "hiragana": "かぎ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "key"
+        ]
+    },
+    {
+        "id": "229",
+        "level": 5,
+        "word": "階段",
+        "rom": "kaidan",
+        "hiragana": "かいだん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "stairs",
+            "stairway",
+            "staircase"
+        ]
+    },
+    {
+        "id": "230",
+        "level": 5,
+        "word": "買い物",
+        "rom": "kaimono",
+        "hiragana": "かいもの",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "shopping",
+            "purchased goods"
+        ]
+    },
+    {
+        "id": "231",
+        "level": 5,
+        "word": "会社",
+        "rom": "kaisha",
+        "hiragana": "かいしゃ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "company",
+            "corporation"
+        ]
+    },
+    {
+        "id": "232",
+        "level": 5,
+        "word": "掛かる",
+        "rom": "kakaru",
+        "hiragana": "かかる",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to take (a resource",
+            "e.g. time or money)"
+        ]
+    },
+    {
+        "id": "233",
+        "level": 5,
+        "word": "掛ける",
+        "rom": "kakeru",
+        "hiragana": "かける",
+        "types": [
+            "Verb",
+            "Ichidan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to hang up",
+            "to make (a call)​",
+            ""
+        ]
+    },
+    {
+        "id": "234",
+        "level": 5,
+        "word": "書く",
+        "rom": "kaku",
+        "hiragana": "かく",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to write",
+            "to compose",
+            "to pen",
+            "to draw"
+        ]
+    },
+    {
+        "id": "235",
+        "level": 5,
+        "word": "カメラ",
+        "rom": "kamera",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "camera"
+        ]
+    },
+    {
+        "id": "236",
+        "level": 5,
+        "word": "紙",
+        "rom": "kami",
+        "hiragana": "かみ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "paper"
+        ]
+    },
+    {
+        "id": "237",
+        "level": 5,
+        "word": "漢字",
+        "rom": "kanji",
+        "hiragana": "かんじ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "kanji"
+        ]
+    },
+    {
+        "id": "238",
+        "level": 5,
+        "word": "カップ",
+        "rom": "kappu",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "cup"
+        ]
+    },
+    {
+        "id": "239",
+        "level": 5,
+        "word": "体",
+        "rom": "karada",
+        "hiragana": "からだ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "body"
+        ]
+    },
+    {
+        "id": "240",
+        "level": 5,
+        "word": "辛い",
+        "rom": "karai",
+        "hiragana": "からい",
+        "types": [
+            "い-adjective"
+        ],
+        "translations": [
+            "spicy"
+        ]
+    },
+    {
+        "id": "241",
+        "level": 5,
+        "word": "カレー",
+        "rom": "karee",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "curry"
+        ]
+    },
+    {
+        "id": "242",
+        "level": 5,
+        "word": "カレンダー",
+        "rom": "karendaa",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "calendar"
+        ]
+    },
+    {
+        "id": "243",
+        "level": 5,
+        "word": "借りる",
+        "rom": "kariru",
+        "hiragana": "かりる",
+        "types": [
+            "Verb",
+            "Ichidan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to borrow"
+        ]
+    },
+    {
+        "id": "244",
+        "level": 5,
+        "word": "軽い",
+        "rom": "karui",
+        "hiragana": "かるい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "light"
+        ]
+    },
+    {
+        "id": "245",
+        "level": 5,
+        "word": "傘",
+        "rom": "kasa",
+        "hiragana": "かさ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "umbrella"
+        ]
+    },
+    {
+        "id": "246",
+        "level": 5,
+        "word": "貸す",
+        "rom": "kasu",
+        "hiragana": "かす",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to lend",
+            "to loan"
+        ]
+    },
+    {
+        "id": "247",
+        "level": 5,
+        "word": "方",
+        "rom": "kata",
+        "hiragana": "かた",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "way of doing something"
+        ]
+    },
+    {
+        "id": "248",
+        "level": 5,
+        "word": "家庭",
+        "rom": "katei",
+        "hiragana": "かてい",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "household"
+        ]
+    },
+    {
+        "id": "249",
+        "level": 5,
+        "word": "買う",
+        "rom": "kau",
+        "hiragana": "かう",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to buy",
+            "to purchase"
+        ]
+    },
+    {
+        "id": "250",
+        "level": 5,
+        "word": "川",
+        "rom": "kawa",
+        "hiragana": "かわ",
+        "types": [
+            "Noun",
+            "Suffix"
+        ],
+        "translations": [
+            "river",
+            "stream​"
+        ]
+    },
+    {
+        "id": "251",
+        "level": 5,
+        "word": "可愛い",
+        "rom": "kawaii",
+        "hiragana": "かわいい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "cute"
+        ]
+    },
+    {
+        "id": "252",
+        "level": 5,
+        "word": "火曜日",
+        "rom": "kayoubi",
+        "hiragana": "かようび",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "Tuesday"
+        ]
+    },
+    {
+        "id": "253",
+        "level": 5,
+        "word": "風邪",
+        "rom": "kaze",
+        "hiragana": "かぜ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "a cold"
+        ]
+    },
+    {
+        "id": "254",
+        "level": 5,
+        "word": "風",
+        "rom": "kaze",
+        "hiragana": "かぜ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "wind"
+        ]
+    },
+    {
+        "id": "255",
+        "level": 5,
+        "word": "家族",
+        "rom": "kazoku",
+        "hiragana": "かぞく",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "family",
+            "members of a family"
+        ]
+    },
+    {
+        "id": "256",
+        "level": 5,
+        "word": "警官",
+        "rom": "keikan",
+        "hiragana": "けいかん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "policeman",
+            "police officer"
+        ]
+    },
+    {
+        "id": "257",
+        "level": 5,
+        "word": "結婚",
+        "rom": "kekkon",
+        "hiragana": "けっこん",
+        "types": [
+            "Noun",
+            "Suru verb"
+        ],
+        "translations": [
+            "marriage"
+        ]
+    },
+    {
+        "id": "258",
+        "level": 5,
+        "word": "結構",
+        "rom": "kekkou",
+        "hiragana": "けっこう",
+        "types": [
+            "Noun",
+            "Adverbial Noun",
+            "Adjective",
+            "な-adjective",
+            "Adverb"
+        ],
+        "translations": [
+            "splendid",
+            "enough"
+        ]
+    },
+    {
+        "id": "259",
+        "level": 5,
+        "word": "今朝",
+        "rom": "kesa",
+        "hiragana": "けさ",
+        "types": [
+            "Noun",
+            "Temporal noun"
+        ],
+        "translations": [
+            "this morning"
+        ]
+    },
+    {
+        "id": "260",
+        "level": 5,
+        "word": "消す",
+        "rom": "kesu",
+        "hiragana": "けす",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to erase",
+            "to turn off power"
+        ]
+    },
+    {
+        "id": "261",
+        "level": 5,
+        "word": "木",
+        "rom": "ki",
+        "hiragana": "き",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "tree",
+            "shrub",
+            "bush",
+            "wood",
+            "timber"
+        ]
+    },
+    {
+        "id": "262",
+        "level": 5,
+        "word": "消える",
+        "rom": "kieru",
+        "hiragana": "きえる",
+        "types": [
+            "Verb",
+            "Ichidan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to disappear"
+        ]
+    },
+    {
+        "id": "263",
+        "level": 5,
+        "word": "黄色い",
+        "rom": "kiiroi",
+        "hiragana": "きいろい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "yellow"
+        ]
+    },
+    {
+        "id": "264",
+        "level": 5,
+        "word": "聞く",
+        "rom": "kiku",
+        "hiragana": "きく",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to hear",
+            "to listen (to music)",
+            "to ask",
+            "to learn of"
+        ]
+    },
+    {
+        "id": "265",
+        "level": 5,
+        "word": "昨日",
+        "rom": "kinou",
+        "hiragana": "きのう",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "yesterday"
+        ]
+    },
+    {
+        "id": "266",
+        "level": 5,
+        "word": "金曜日",
+        "rom": "kinyoubi",
+        "hiragana": "きんようび",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "Friday"
+        ]
+    },
+    {
+        "id": "267",
+        "level": 5,
+        "word": "切符",
+        "rom": "kippu",
+        "hiragana": "きっぷ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "ticket"
+        ]
+    },
+    {
+        "id": "268",
+        "level": 5,
+        "word": "嫌い",
+        "rom": "kirai",
+        "hiragana": "きらい",
+        "types": [
+            "Noun",
+            "Adjective",
+            "な-adjective"
+        ],
+        "translations": [
+            "hate"
+        ]
+    },
+    {
+        "id": "269",
+        "level": 5,
+        "word": "綺麗",
+        "rom": "kirei",
+        "hiragana": "きれい",
+        "types": [
+            "Adjective",
+            "な-adjective"
+        ],
+        "translations": [
+            "pretty",
+            "lovely",
+            "beautiful"
+        ]
+    },
+    {
+        "id": "270",
+        "level": 5,
+        "word": "キログラム",
+        "rom": "kiroguramu",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "kilogram"
+        ]
+    },
+    {
+        "id": "271",
+        "level": 5,
+        "word": "キロメートル",
+        "rom": "kiromeetoru",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "kilometer"
+        ]
+    },
+    {
+        "id": "272",
+        "level": 5,
+        "word": "切る",
+        "rom": "kiru",
+        "hiragana": "きる",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to cut"
+        ]
+    },
+    {
+        "id": "273",
+        "level": 5,
+        "word": "着る",
+        "rom": "kiru",
+        "hiragana": "きる",
+        "types": [
+            "Verb",
+            "Ichidan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to wear"
+        ]
+    },
+    {
+        "id": "274",
+        "level": 5,
+        "word": "喫茶店",
+        "rom": "kissaten",
+        "hiragana": "きっさてん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "coffee shop",
+            "tearoom",
+            "cafe"
+        ]
+    },
+    {
+        "id": "275",
+        "level": 5,
+        "word": "北",
+        "rom": "kita",
+        "hiragana": "きた",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "north"
+        ]
+    },
+    {
+        "id": "276",
+        "level": 5,
+        "word": "汚い",
+        "rom": "kitanai",
+        "hiragana": "きたない",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "dirty"
+        ]
+    },
+    {
+        "id": "277",
+        "level": 5,
+        "word": "切手",
+        "rom": "kitte",
+        "hiragana": "きって",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "stamp (postage)"
+        ]
+    },
+    {
+        "id": "278",
+        "level": 5,
+        "word": "こっち",
+        "rom": "kocchi",
+        "hiragana": "",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "this person or way"
+        ]
+    },
+    {
+        "id": "279",
+        "level": 5,
+        "word": "こちら",
+        "rom": "kochira",
+        "hiragana": "",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "this way",
+            "this direction​"
+        ]
+    },
+    {
+        "id": "280",
+        "level": 5,
+        "word": "子供",
+        "rom": "kodomo",
+        "hiragana": "こども",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "child"
+        ]
+    },
+    {
+        "id": "281",
+        "level": 5,
+        "word": "声",
+        "rom": "koe",
+        "hiragana": "こえ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "voice"
+        ]
+    },
+    {
+        "id": "282",
+        "level": 5,
+        "word": "ここ",
+        "rom": "koko",
+        "hiragana": "",
+        "types": [
+            "Pronoun"
+        ],
+        "translations": [
+            "here",
+            "this place"
+        ]
+    },
+    {
+        "id": "283",
+        "level": 5,
+        "word": "九日",
+        "rom": "kokonoka",
+        "hiragana": "ここのか",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "ninth day of the month",
+            "9 days"
+        ]
+    },
+    {
+        "id": "284",
+        "level": 5,
+        "word": "九つ",
+        "rom": "kokonotsu",
+        "hiragana": "ここのつ",
+        "types": [
+            "Noun",
+            "Numeric"
+        ],
+        "translations": [
+            "nine",
+            "9"
+        ]
+    },
+    {
+        "id": "285",
+        "level": 5,
+        "word": "困る",
+        "rom": "komaru",
+        "hiragana": "こまる",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to be troubled"
+        ]
+    },
+    {
+        "id": "286",
+        "level": 5,
+        "word": "今晩",
+        "rom": "konban",
+        "hiragana": "こんばん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "tonight",
+            "this evening"
+        ]
+    },
+    {
+        "id": "287",
+        "level": 5,
+        "word": "今月",
+        "rom": "kongetsu",
+        "hiragana": "こんげつ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "this month"
+        ]
+    },
+    {
+        "id": "288",
+        "level": 5,
+        "word": "こんな",
+        "rom": "konna",
+        "hiragana": "",
+        "types": [
+            "Pre-noun adjectival"
+        ],
+        "translations": [
+            "such",
+            "like this​"
+        ]
+    },
+    {
+        "id": "289",
+        "level": 5,
+        "word": "この",
+        "rom": "kono",
+        "hiragana": "",
+        "types": [
+            "Pre-noun adjectival"
+        ],
+        "translations": [
+            "this​"
+        ]
+    },
+    {
+        "id": "290",
+        "level": 5,
+        "word": "今週",
+        "rom": "konshuu",
+        "hiragana": "こんしゅう",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "this week"
+        ]
+    },
+    {
+        "id": "291",
+        "level": 5,
+        "word": "コーヒー",
+        "rom": "koohii",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "Coffee"
+        ]
+    },
+    {
+        "id": "292",
+        "level": 5,
+        "word": "コート",
+        "rom": "kooto",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "coat"
+        ]
+    },
+    {
+        "id": "293",
+        "level": 5,
+        "word": "コピー",
+        "rom": "kopii",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Suru verb",
+            "Katakana"
+        ],
+        "translations": [
+            "copy",
+            "photocopy"
+        ]
+    },
+    {
+        "id": "294",
+        "level": 5,
+        "word": "コップ",
+        "rom": "koppu",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "glass (drinking vessel)",
+            "tumbler​"
+        ]
+    },
+    {
+        "id": "295",
+        "level": 5,
+        "word": "これ",
+        "rom": "kore",
+        "hiragana": "",
+        "types": [
+            "Pronoun"
+        ],
+        "translations": [
+            "this"
+        ]
+    },
+    {
+        "id": "296",
+        "level": 5,
+        "word": "答える",
+        "rom": "kotaeru",
+        "hiragana": "こたえる",
+        "types": [
+            "Verb",
+            "Ichidan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to answer"
+        ]
+    },
+    {
+        "id": "297",
+        "level": 5,
+        "word": "言葉",
+        "rom": "kotoba",
+        "hiragana": "ことば",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "word",
+            "words"
+        ]
+    },
+    {
+        "id": "298",
+        "level": 5,
+        "word": "今年",
+        "rom": "kotoshi",
+        "hiragana": "ことし",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "this year"
+        ]
+    },
+    {
+        "id": "299",
+        "level": 5,
+        "word": "交番",
+        "rom": "kouban",
+        "hiragana": "こうばん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "police box"
+        ]
+    },
+    {
+        "id": "300",
+        "level": 5,
+        "word": "紅茶",
+        "rom": "koucha",
+        "hiragana": "こうちゃ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "black tea"
+        ]
+    },
+    {
+        "id": "300",
+        "level": 5,
+        "word": "紅茶",
+        "rom": "koucha",
+        "hiragana": "こうちゃ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "black tea"
+        ]
+    },
+    {
+        "id": "301",
+        "level": 5,
+        "word": "公園",
+        "rom": "kouen",
+        "hiragana": "こうえん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "park"
+        ]
+    },
+    {
+        "id": "302",
+        "level": 5,
+        "word": "交差点",
+        "rom": "kousaten",
+        "hiragana": "こうさてん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "intersection"
+        ]
+    },
+    {
+        "id": "303",
+        "level": 5,
+        "word": "口",
+        "rom": "kuchi",
+        "hiragana": "くち",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "mouth",
+            "opening"
+        ]
+    },
+    {
+        "id": "304",
+        "level": 5,
+        "word": "果物",
+        "rom": "kudamono",
+        "hiragana": "くだもの",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "fruit"
+        ]
+    },
+    {
+        "id": "305",
+        "level": 5,
+        "word": "下さい",
+        "rom": "kudasai",
+        "hiragana": "ください",
+        "types": [
+            "Expression"
+        ],
+        "translations": [
+            "please"
+        ]
+    },
+    {
+        "id": "306",
+        "level": 5,
+        "word": "曇り",
+        "rom": "kumori",
+        "hiragana": "くもり",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "cloudiness",
+            "cloudy weather"
+        ]
+    },
+    {
+        "id": "307",
+        "level": 5,
+        "word": "曇る",
+        "rom": "kumoru",
+        "hiragana": "くもる",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to become cloudy",
+            "to become dim"
+        ]
+    },
+    {
+        "id": "308",
+        "level": 5,
+        "word": "国",
+        "rom": "kuni",
+        "hiragana": "くに",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "country",
+            "state",
+            "region"
+        ]
+    },
+    {
+        "id": "309",
+        "level": 5,
+        "word": "暗い",
+        "rom": "kurai",
+        "hiragana": "くらい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "dark",
+            "gloomy",
+            "murky"
+        ]
+    },
+    {
+        "id": "310",
+        "level": 5,
+        "word": "クラス",
+        "rom": "kurasu",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "class"
+        ]
+    },
+    {
+        "id": "311",
+        "level": 5,
+        "word": "黒",
+        "rom": "kuro",
+        "hiragana": "くろ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "black"
+        ]
+    },
+    {
+        "id": "312",
+        "level": 5,
+        "word": "黒い",
+        "rom": "kuroi",
+        "hiragana": "くろい",
+        "types": [
+            "い-adjective"
+        ],
+        "translations": [
+            "black"
+        ]
+    },
+    {
+        "id": "313",
+        "level": 5,
+        "word": "来る",
+        "rom": "kuru",
+        "hiragana": "くる",
+        "types": [
+            "Verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to come"
+        ]
+    },
+    {
+        "id": "314",
+        "level": 5,
+        "word": "車",
+        "rom": "kuruma",
+        "hiragana": "くるま",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "car",
+            "automobile",
+            "vehicle"
+        ]
+    },
+    {
+        "id": "315",
+        "level": 5,
+        "word": "薬",
+        "rom": "kusuri",
+        "hiragana": "くすり",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "medicine"
+        ]
+    },
+    {
+        "id": "316",
+        "level": 5,
+        "word": "靴",
+        "rom": "kutsu",
+        "hiragana": "くつ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "shoes"
+        ]
+    },
+    {
+        "id": "317",
+        "level": 5,
+        "word": "靴下",
+        "rom": "kutsushita",
+        "hiragana": "くつした",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "socks"
+        ]
+    },
+    {
+        "id": "318",
+        "level": 5,
+        "word": "去年",
+        "rom": "kyonen",
+        "hiragana": "きょねん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "last year"
+        ]
+    },
+    {
+        "id": "319",
+        "level": 5,
+        "word": "今日",
+        "rom": "kyou",
+        "hiragana": "きょう",
+        "types": [
+            "Noun",
+            "Temporal noun"
+        ],
+        "translations": [
+            "today",
+            "this day"
+        ]
+    },
+    {
+        "id": "320",
+        "level": 5,
+        "word": "兄弟",
+        "rom": "kyoudai",
+        "hiragana": "きょうだい",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "siblings",
+            "brothers and sisters​",
+            "mate"
+        ]
+    },
+    {
+        "id": "321",
+        "level": 5,
+        "word": "教室",
+        "rom": "kyoushitsu",
+        "hiragana": "きょうしつ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "classroom"
+        ]
+    },
+    {
+        "id": "322",
+        "level": 5,
+        "word": "九",
+        "rom": "kyuu",
+        "hiragana": "きゅう",
+        "types": [
+            "Noun",
+            "Numeric"
+        ],
+        "translations": [
+            "nine",
+            "9"
+        ]
+    },
+    {
+        "id": "323",
+        "level": 5,
+        "word": "マッチ",
+        "rom": "macchi",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "match"
+        ]
+    },
+    {
+        "id": "324",
+        "level": 5,
+        "word": "町",
+        "rom": "machi",
+        "hiragana": "まち",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "town",
+            "block",
+            "neighborhood"
+        ]
+    },
+    {
+        "id": "325",
+        "level": 5,
+        "word": "窓",
+        "rom": "mado",
+        "hiragana": "まど",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "window"
+        ]
+    },
+    {
+        "id": "326",
+        "level": 5,
+        "word": "前",
+        "rom": "mae",
+        "hiragana": "まえ",
+        "types": [
+            "Noun",
+            "Suffix"
+        ],
+        "translations": [
+            "previous",
+            "before",
+            "in front",
+            "ago"
+        ]
+    },
+    {
+        "id": "327",
+        "level": 5,
+        "word": "曲がる",
+        "rom": "magaru",
+        "hiragana": "まがる",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to turn",
+            "to bend"
+        ]
+    },
+    {
+        "id": "328",
+        "level": 5,
+        "word": "毎朝",
+        "rom": "maiasa",
+        "hiragana": "まいあさ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "every morning"
+        ]
+    },
+    {
+        "id": "329",
+        "level": 5,
+        "word": "毎晩",
+        "rom": "maiban",
+        "hiragana": "まいばん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "every night"
+        ]
+    },
+    {
+        "id": "330",
+        "level": 5,
+        "word": "毎日",
+        "rom": "mainichi",
+        "hiragana": "まいにち",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "every day"
+        ]
+    },
+    {
+        "id": "331",
+        "level": 5,
+        "word": "毎週",
+        "rom": "maishuu",
+        "hiragana": "まいしゅう",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "every week"
+        ]
+    },
+    {
+        "id": "332",
+        "level": 5,
+        "word": "毎年",
+        "rom": [
+            "maitoshi",
+            "mainen"
+        ],
+        "hiragana": [
+            "まいとし",
+            "まいねん"
+        ],
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "every year",
+            "yearly",
+            "annually"
+        ]
+    },
+    {
+        "id": "333",
+        "level": 5,
+        "word": "毎月",
+        "rom": "maitsuki",
+        "hiragana": "まいつき",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "every month",
+            "monthly"
+        ]
+    },
+    {
+        "id": "334",
+        "level": 5,
+        "word": "万",
+        "rom": "man",
+        "hiragana": "まん",
+        "types": [
+            "Noun",
+            "Numeric"
+        ],
+        "translations": [
+            "10",
+            "000",
+            "ten thousand"
+        ]
+    },
+    {
+        "id": "335",
+        "level": 5,
+        "word": "万年筆",
+        "rom": "mannenhitsu",
+        "hiragana": "まんねんひつ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "fountain pen"
+        ]
+    },
+    {
+        "id": "336",
+        "level": 5,
+        "word": "丸い",
+        "rom": "marui",
+        "hiragana": "まるい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "round",
+            "circular"
+        ]
+    },
+    {
+        "id": "337",
+        "level": 5,
+        "word": "真っ直ぐ",
+        "rom": "massugu",
+        "hiragana": "まっすぐ",
+        "types": [
+            "Noun",
+            "Adjective",
+            "な-adjective",
+            "Adverb"
+        ],
+        "translations": [
+            "straight ahead",
+            "direct"
+        ]
+    },
+    {
+        "id": "338",
+        "level": 5,
+        "word": "待つ",
+        "rom": "matsu",
+        "hiragana": "まつ",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Intransitive verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to wait​"
+        ]
+    },
+    {
+        "id": "339",
+        "level": 5,
+        "word": "不味い",
+        "rom": "mazui",
+        "hiragana": "まずい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "unpleasant"
+        ]
+    },
+    {
+        "id": "340",
+        "level": 5,
+        "word": "目",
+        "rom": "me",
+        "hiragana": "め",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "eye"
+        ]
+    },
+    {
+        "id": "341",
+        "level": 5,
+        "word": "メートル",
+        "rom": "meetoru",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "metre",
+            "meter"
+        ]
+    },
+    {
+        "id": "342",
+        "level": 5,
+        "word": "眼鏡",
+        "rom": "megane",
+        "hiragana": "めがね",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "glasses"
+        ]
+    },
+    {
+        "id": "343",
+        "level": 5,
+        "word": "道",
+        "rom": "michi",
+        "hiragana": "みち",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "road",
+            "street"
+        ]
+    },
+    {
+        "id": "344",
+        "level": 5,
+        "word": "緑",
+        "rom": "midori",
+        "hiragana": "みどり",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "green"
+        ]
+    },
+    {
+        "id": "345",
+        "level": 5,
+        "word": "磨く",
+        "rom": "migaku",
+        "hiragana": "みがく",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to polish",
+            "to shine",
+            "to brush (e.g. teeth)"
+        ]
+    },
+    {
+        "id": "346",
+        "level": 5,
+        "word": "右",
+        "rom": "migi",
+        "hiragana": "みぎ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "right",
+            "right hand side"
+        ]
+    },
+    {
+        "id": "347",
+        "level": 5,
+        "word": "短い",
+        "rom": "mijikai",
+        "hiragana": "みじかい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "short"
+        ]
+    },
+    {
+        "id": "348",
+        "level": 5,
+        "word": "三日",
+        "rom": "mikka",
+        "hiragana": "みっか",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "the third day of the month",
+            "3 days"
+        ]
+    },
+    {
+        "id": "349",
+        "level": 5,
+        "word": "耳",
+        "rom": "mimi",
+        "hiragana": "みみ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "ear",
+            "hearing"
+        ]
+    },
+    {
+        "id": "350",
+        "level": 5,
+        "word": "南",
+        "rom": "minami",
+        "hiragana": "みなみ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "south"
+        ]
+    },
+    {
+        "id": "351",
+        "level": 5,
+        "word": "皆さん",
+        "rom": "minasan",
+        "hiragana": "みなさん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "everyone"
+        ]
+    },
+    {
+        "id": "352",
+        "level": 5,
+        "word": "みんな",
+        "rom": "minna",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Adverb"
+        ],
+        "translations": [
+            "all",
+            "everyone",
+            "everybody"
+        ]
+    },
+    {
+        "id": "353",
+        "level": 5,
+        "word": "見る",
+        "rom": "miru",
+        "hiragana": "みる",
+        "types": [
+            "Verb",
+            "Ichidan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to see",
+            "to look",
+            "to watch",
+            "to view",
+            "to observe"
+        ]
+    },
+    {
+        "id": "354",
+        "level": 5,
+        "word": "店",
+        "rom": "mise",
+        "hiragana": "みせ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "store",
+            "shop",
+            "establishment",
+            "restaurant"
+        ]
+    },
+    {
+        "id": "355",
+        "level": 5,
+        "word": "見せる",
+        "rom": "miseru",
+        "hiragana": "みせる",
+        "types": [
+            "Verb",
+            "Ichidan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to show",
+            "to display"
+        ]
+    },
+    {
+        "id": "356",
+        "level": 5,
+        "word": "三つ",
+        "rom": "mitsu",
+        "hiragana": "みつ",
+        "types": [
+            "Noun",
+            "Numeric"
+        ],
+        "translations": [
+            "three",
+            "3"
+        ]
+    },
+    {
+        "id": "357",
+        "level": 5,
+        "word": "水",
+        "rom": "mizu",
+        "hiragana": "みず",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "water",
+            "fluid",
+            "liquid​"
+        ]
+    },
+    {
+        "id": "358",
+        "level": 5,
+        "word": "木曜日",
+        "rom": "mokuyoubi",
+        "hiragana": "もくようび",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "Thursday"
+        ]
+    },
+    {
+        "id": "359",
+        "level": 5,
+        "word": "門",
+        "rom": "mon",
+        "hiragana": "もん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "gate"
+        ]
+    },
+    {
+        "id": "360",
+        "level": 5,
+        "word": "問題",
+        "rom": "mondai",
+        "hiragana": "もんだい",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "problem",
+            "question (e.g. on a test)"
+        ]
+    },
+    {
+        "id": "361",
+        "level": 5,
+        "word": "物",
+        "rom": "mono",
+        "hiragana": "もの",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "thing"
+        ]
+    },
+    {
+        "id": "362",
+        "level": 5,
+        "word": "持つ",
+        "rom": "motsu",
+        "hiragana": "もつ",
+        "types": [
+            "Verb",
+            "Godan verb"
+        ],
+        "translations": [
+            "to hold"
+        ]
+    },
+    {
+        "id": "363",
+        "level": 5,
+        "word": "もっと",
+        "rom": "motto",
+        "hiragana": "",
+        "types": [
+            "Adverb"
+        ],
+        "translations": [
+            "more",
+            "longer",
+            "further"
+        ]
+    },
+    {
+        "id": "364",
+        "level": 5,
+        "word": "もう一度",
+        "rom": "mouichido",
+        "hiragana": "もういちど",
+        "types": [
+            "Expression"
+        ],
+        "translations": [
+            "once more",
+            "again"
+        ]
+    },
+    {
+        "id": "365",
+        "level": 5,
+        "word": "六日",
+        "rom": "muika",
+        "hiragana": "むいか",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "sixth day of the month",
+            "6 days"
+        ]
+    },
+    {
+        "id": "366",
+        "level": 5,
+        "word": "向こう",
+        "rom": "mukou",
+        "hiragana": "むこう",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "over there"
+        ]
+    },
+    {
+        "id": "367",
+        "level": 5,
+        "word": "村",
+        "rom": "mura",
+        "hiragana": "むら",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "village"
+        ]
+    },
+    {
+        "id": "368",
+        "level": 5,
+        "word": "六つ",
+        "rom": "muttsu",
+        "hiragana": "むっつ",
+        "types": [
+            "Noun",
+            "Numeric"
+        ],
+        "translations": [
+            "six",
+            "6"
+        ]
+    },
+    {
+        "id": "369",
+        "level": 5,
+        "word": "難しい",
+        "rom": "muzukashii",
+        "hiragana": "むずかしい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "difficult"
+        ]
+    },
+    {
+        "id": "370",
+        "level": 5,
+        "word": "長い",
+        "rom": "nagai",
+        "hiragana": "ながい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "long (distance)​",
+            "long (time)",
+            "lengthy."
+        ]
+    },
+    {
+        "id": "371",
+        "level": 5,
+        "word": "ナイフ",
+        "rom": "naifu",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "knife"
+        ]
+    },
+    {
+        "id": "372",
+        "level": 5,
+        "word": "中",
+        "rom": "naka",
+        "hiragana": "なか",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "inside",
+            "in",
+            "within",
+            "center"
+        ]
+    },
+    {
+        "id": "373",
+        "level": 5,
+        "word": "鳴く",
+        "rom": "naku",
+        "hiragana": "なく",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "animal noise. to chirp"
+        ]
+    },
+    {
+        "id": "374",
+        "level": 5,
+        "word": "無くす",
+        "rom": "nakusu",
+        "hiragana": "なくす",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to lose (something)"
+        ]
+    },
+    {
+        "id": "375",
+        "level": 5,
+        "word": "名前",
+        "rom": "namae",
+        "hiragana": "なまえ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "name",
+            "full name",
+            "given name"
+        ]
+    },
+    {
+        "id": "376",
+        "level": 5,
+        "word": "七つ",
+        "rom": "nanatsu",
+        "hiragana": "ななつ",
+        "types": [
+            "Noun",
+            "Numeric"
+        ],
+        "translations": [
+            "seven",
+            "7"
+        ]
+    },
+    {
+        "id": "377",
+        "level": 5,
+        "word": "何",
+        "rom": "nani",
+        "hiragana": "なに",
+        "types": [
+            "Noun",
+            "Pronoun",
+            "Prefix"
+        ],
+        "translations": [
+            "what"
+        ]
+    },
+    {
+        "id": "378",
+        "level": 5,
+        "word": "七日",
+        "rom": "nanoka",
+        "hiragana": "なのか",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "seventh day of the month",
+            "7 days"
+        ]
+    },
+    {
+        "id": "379",
+        "level": 5,
+        "word": "並べる",
+        "rom": "naraberu",
+        "hiragana": "ならべる",
+        "types": [
+            "Verb",
+            "Ichidan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to line up",
+            "to set up"
+        ]
+    },
+    {
+        "id": "380",
+        "level": 5,
+        "word": "並ぶ",
+        "rom": "narabu",
+        "hiragana": "ならぶ",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to line up",
+            "to stand in a line"
+        ]
+    },
+    {
+        "id": "381",
+        "level": 5,
+        "word": "習う",
+        "rom": "narau",
+        "hiragana": "ならう",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to be taught",
+            "to learn (from a teacher)"
+        ]
+    },
+    {
+        "id": "382",
+        "level": 5,
+        "word": "夏",
+        "rom": "natsu",
+        "hiragana": "なつ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "summer"
+        ]
+    },
+    {
+        "id": "383",
+        "level": 5,
+        "word": "夏休み",
+        "rom": "natsuyasumi",
+        "hiragana": "なつやすみ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "summer vacation",
+            "summer holiday"
+        ]
+    },
+    {
+        "id": "384",
+        "level": 5,
+        "word": "何故",
+        "rom": "naze",
+        "hiragana": "なぜ",
+        "types": [
+            "Adverb"
+        ],
+        "translations": [
+            "why",
+            "how"
+        ]
+    },
+    {
+        "id": "385",
+        "level": 5,
+        "word": "猫",
+        "rom": "neko",
+        "hiragana": "ねこ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "cat"
+        ]
+    },
+    {
+        "id": "386",
+        "level": 5,
+        "word": "ネクタイ",
+        "rom": "nekutai",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "tie",
+            "necktie"
+        ]
+    },
+    {
+        "id": "387",
+        "level": 5,
+        "word": "寝る",
+        "rom": "neru",
+        "hiragana": "ねる",
+        "types": [
+            "Verb",
+            "Ichidan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to sleep",
+            "to go to bed",
+            "to lie down"
+        ]
+    },
+    {
+        "id": "388",
+        "level": 5,
+        "word": "二",
+        "rom": "ni",
+        "hiragana": "に",
+        "types": [
+            "Noun",
+            "Numeric"
+        ],
+        "translations": [
+            "two",
+            "2"
+        ]
+    },
+    {
+        "id": "389",
+        "level": 5,
+        "word": "日曜日",
+        "rom": "nichiyoubi",
+        "hiragana": "にちようび",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "Sunday"
+        ]
+    },
+    {
+        "id": "390",
+        "level": 5,
+        "word": "賑やか",
+        "rom": "nigiyaka",
+        "hiragana": "にぎやか",
+        "types": [
+            "Adjective",
+            "な-adjective"
+        ],
+        "translations": [
+            "bustling",
+            "busy"
+        ]
+    },
+    {
+        "id": "391",
+        "level": 5,
+        "word": "日記",
+        "rom": "nikki",
+        "hiragana": "にっき",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "diary",
+            "journal"
+        ]
+    },
+    {
+        "id": "392",
+        "level": 5,
+        "word": "肉",
+        "rom": "niku",
+        "hiragana": "にく",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "meat"
+        ]
+    },
+    {
+        "id": "393",
+        "level": 5,
+        "word": "荷物",
+        "rom": "nimotsu",
+        "hiragana": "にもつ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "luggage",
+            "baggage"
+        ]
+    },
+    {
+        "id": "394",
+        "level": 5,
+        "word": "西",
+        "rom": "nishi",
+        "hiragana": "にし",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "west"
+        ]
+    },
+    {
+        "id": "395",
+        "level": 5,
+        "word": "庭",
+        "rom": "niwa",
+        "hiragana": "にわ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "garden"
+        ]
+    },
+    {
+        "id": "396",
+        "level": 5,
+        "word": "登る",
+        "rom": "noboru",
+        "hiragana": "のぼる",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to climb"
+        ]
+    },
+    {
+        "id": "397",
+        "level": 5,
+        "word": "飲み物",
+        "rom": "nomimono",
+        "hiragana": "のみもの",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "drink",
+            "beverage"
+        ]
+    },
+    {
+        "id": "398",
+        "level": 5,
+        "word": "飲む",
+        "rom": "nomu",
+        "hiragana": "のむ",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to drink"
+        ]
+    },
+    {
+        "id": "399",
+        "level": 5,
+        "word": "ノート",
+        "rom": "nooto",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "notebook"
+        ]
+    },
+    {
+        "id": "400",
+        "level": 5,
+        "word": "乗る",
+        "rom": "noru",
+        "hiragana": "のる",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to get on (train",
+            "plane",
+            "bus",
+            "ship",
+            "etc.)"
+        ]
+    },
+    {
+        "id": "400",
+        "level": 5,
+        "word": "乗る",
+        "rom": "noru",
+        "hiragana": "のる",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to get on (train",
+            "plane",
+            "bus",
+            "ship",
+            "etc.)"
+        ]
+    },
+    {
+        "id": "401",
+        "level": 5,
+        "word": "脱ぐ",
+        "rom": "nugu",
+        "hiragana": "ぬぐ",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to take off clothes"
+        ]
+    },
+    {
+        "id": "402",
+        "level": 5,
+        "word": "温い",
+        "rom": "nurui",
+        "hiragana": "ぬるい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "luke warm"
+        ]
+    },
+    {
+        "id": "403",
+        "level": 5,
+        "word": "ニュース",
+        "rom": "nyuusu",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "news"
+        ]
+    },
+    {
+        "id": "404",
+        "level": 5,
+        "word": "おばあさん",
+        "rom": "obaasan",
+        "hiragana": "",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "grandmother"
+        ]
+    },
+    {
+        "id": "405",
+        "level": 5,
+        "word": "伯母さん",
+        "rom": "obasan",
+        "hiragana": "おばさん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "aunt",
+            "old lady"
+        ]
+    },
+    {
+        "id": "406",
+        "level": 5,
+        "word": "お弁当",
+        "rom": "obentou",
+        "hiragana": "おべんとう",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "lunch box",
+            "Japanese box lunch"
+        ]
+    },
+    {
+        "id": "407",
+        "level": 5,
+        "word": "覚える",
+        "rom": "oboeru",
+        "hiragana": "おぼえる",
+        "types": [
+            "Verb",
+            "Ichidan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to remember"
+        ]
+    },
+    {
+        "id": "408",
+        "level": 5,
+        "word": "お茶",
+        "rom": "ocha",
+        "hiragana": "おちゃ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "tea"
+        ]
+    },
+    {
+        "id": "409",
+        "level": 5,
+        "word": "お風呂",
+        "rom": "ofuro",
+        "hiragana": "おふろ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "bath"
+        ]
+    },
+    {
+        "id": "410",
+        "level": 5,
+        "word": "美味しい",
+        "rom": "oishii",
+        "hiragana": "おいしい",
+        "types": [
+            "い-adjective"
+        ],
+        "translations": [
+            "delicious"
+        ]
+    },
+    {
+        "id": "411",
+        "level": 5,
+        "word": "伯父さん",
+        "rom": "ojisan",
+        "hiragana": "おじさん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "uncle",
+            "old man",
+            "mister"
+        ]
+    },
+    {
+        "id": "412",
+        "level": 5,
+        "word": "お母さん",
+        "rom": "okaasan",
+        "hiragana": "おかあさん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "mother",
+            "mom",
+            "mum",
+            "ma"
+        ]
+    },
+    {
+        "id": "413",
+        "level": 5,
+        "word": "お金",
+        "rom": "okane",
+        "hiragana": "おかね",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "money"
+        ]
+    },
+    {
+        "id": "414",
+        "level": 5,
+        "word": "お菓子",
+        "rom": "okashi",
+        "hiragana": "おかし",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "confections",
+            "sweets",
+            "candy"
+        ]
+    },
+    {
+        "id": "415",
+        "level": 5,
+        "word": "起きる",
+        "rom": "okiru",
+        "hiragana": "おきる",
+        "types": [
+            "Verb",
+            "Ichidan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to get up",
+            "to wake up"
+        ]
+    },
+    {
+        "id": "416",
+        "level": 5,
+        "word": "置く",
+        "rom": "oku",
+        "hiragana": "おく",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to put",
+            "to place​"
+        ]
+    },
+    {
+        "id": "417",
+        "level": 5,
+        "word": "奥さん",
+        "rom": "okusan",
+        "hiragana": "おくさん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "wife",
+            "your wife",
+            "his wife"
+        ]
+    },
+    {
+        "id": "418",
+        "level": 5,
+        "word": "お巡りさん",
+        "rom": "omawarisan",
+        "hiragana": "おまわりさん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "police officer (friendly term for policeman)"
+        ]
+    },
+    {
+        "id": "419",
+        "level": 5,
+        "word": "重い",
+        "rom": "omoi",
+        "hiragana": "おもい",
+        "types": [
+            "い-adjective"
+        ],
+        "translations": [
+            "heavy"
+        ]
+    },
+    {
+        "id": "420",
+        "level": 5,
+        "word": "面白い",
+        "rom": "omoshiroi",
+        "hiragana": "おもしろい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "interesting"
+        ]
+    },
+    {
+        "id": "421",
+        "level": 5,
+        "word": "同じ",
+        "rom": "onaji",
+        "hiragana": "おなじ",
+        "types": [
+            "Noun",
+            "Adverb"
+        ],
+        "translations": [
+            "same"
+        ]
+    },
+    {
+        "id": "422",
+        "level": 5,
+        "word": "お腹",
+        "rom": "onaka",
+        "hiragana": "おなか",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "stomach"
+        ]
+    },
+    {
+        "id": "423",
+        "level": 5,
+        "word": "お姉さん",
+        "rom": "oneesan",
+        "hiragana": "おねえさん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "elder sister",
+            "young lady",
+            "miss",
+            "ma'am"
+        ]
+    },
+    {
+        "id": "424",
+        "level": 5,
+        "word": "音楽",
+        "rom": "ongaku",
+        "hiragana": "おんがく",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "music"
+        ]
+    },
+    {
+        "id": "425",
+        "level": 5,
+        "word": "お兄さん",
+        "rom": "oniisan",
+        "hiragana": "おにいさん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "older brother",
+            "elder brother",
+            "young man",
+            "buddy"
+        ]
+    },
+    {
+        "id": "426",
+        "level": 5,
+        "word": "女",
+        "rom": "onna",
+        "hiragana": "おんな",
+        "types": [
+            "Noun",
+            "Prefix"
+        ],
+        "translations": [
+            "woman",
+            "female sex"
+        ]
+    },
+    {
+        "id": "427",
+        "level": 5,
+        "word": "女の子",
+        "rom": "onnanoko",
+        "hiragana": "おんなのこ",
+        "types": [
+            "Noun",
+            "Expression"
+        ],
+        "translations": [
+            "girl",
+            "daughter",
+            "young women"
+        ]
+    },
+    {
+        "id": "428",
+        "level": 5,
+        "word": "多い",
+        "rom": "ooi",
+        "hiragana": "おおい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "many",
+            "numerous",
+            "a lot",
+            "large quantity",
+            "frequent"
+        ]
+    },
+    {
+        "id": "429",
+        "level": 5,
+        "word": "大きい",
+        "rom": "ookii",
+        "hiragana": "おおきい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "big",
+            "large",
+            "great",
+            "important"
+        ]
+    },
+    {
+        "id": "430",
+        "level": 5,
+        "word": "大きな",
+        "rom": "ookina",
+        "hiragana": "おおきな",
+        "types": [
+            "Pre-noun adjectival"
+        ],
+        "translations": [
+            "big",
+            "large",
+            "great​"
+        ]
+    },
+    {
+        "id": "431",
+        "level": 5,
+        "word": "大勢",
+        "rom": "oozei",
+        "hiragana": "おおぜい",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "crowd of people",
+            "great number of people"
+        ]
+    },
+    {
+        "id": "432",
+        "level": 5,
+        "word": "降りる",
+        "rom": "oriru",
+        "hiragana": "おりる",
+        "types": [
+            "Verb",
+            "Ichidan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to get off"
+        ]
+    },
+    {
+        "id": "433",
+        "level": 5,
+        "word": "お酒",
+        "rom": "osake",
+        "hiragana": "おさけ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "alcohol"
+        ]
+    },
+    {
+        "id": "434",
+        "level": 5,
+        "word": "お皿",
+        "rom": "osara",
+        "hiragana": "おさら",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "plate",
+            "dish"
+        ]
+    },
+    {
+        "id": "435",
+        "level": 5,
+        "word": "教える",
+        "rom": "oshieru",
+        "hiragana": "おしえる",
+        "types": [
+            "Verb",
+            "Ichidan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to teach"
+        ]
+    },
+    {
+        "id": "436",
+        "level": 5,
+        "word": "遅い",
+        "rom": "osoi",
+        "hiragana": "おそい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "slow",
+            "time-consuming",
+            "late"
+        ]
+    },
+    {
+        "id": "437",
+        "level": 5,
+        "word": "押す",
+        "rom": "osu",
+        "hiragana": "おす",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to push",
+            "to press​"
+        ]
+    },
+    {
+        "id": "438",
+        "level": 5,
+        "word": "お手洗い",
+        "rom": "otearai",
+        "hiragana": "おてあらい",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "toilet",
+            "restroom",
+            "lavatory",
+            "bathroom"
+        ]
+    },
+    {
+        "id": "439",
+        "level": 5,
+        "word": "男",
+        "rom": "otoko",
+        "hiragana": "おとこ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "man",
+            "male"
+        ]
+    },
+    {
+        "id": "440",
+        "level": 5,
+        "word": "男の子",
+        "rom": "otokonoko",
+        "hiragana": "おとこのこ",
+        "types": [
+            "Noun",
+            "Expression"
+        ],
+        "translations": [
+            "boy",
+            "male child",
+            "baby boy"
+        ]
+    },
+    {
+        "id": "441",
+        "level": 5,
+        "word": "大人",
+        "rom": "otona",
+        "hiragana": "おとな",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "adult"
+        ]
+    },
+    {
+        "id": "442",
+        "level": 5,
+        "word": "一昨日",
+        "rom": "ototoi",
+        "hiragana": "おととい",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "day before yesterday"
+        ]
+    },
+    {
+        "id": "443",
+        "level": 5,
+        "word": "一昨年",
+        "rom": "ototoshi",
+        "hiragana": "おととし",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "year before last"
+        ]
+    },
+    {
+        "id": "444",
+        "level": 5,
+        "word": "お父さん",
+        "rom": "otousan",
+        "hiragana": "おとうさん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "father",
+            "dad",
+            "papa",
+            "pa",
+            "pop",
+            "daddy"
+        ]
+    },
+    {
+        "id": "445",
+        "level": 5,
+        "word": "弟",
+        "rom": "otouto",
+        "hiragana": "おとうと",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "younger brother"
+        ]
+    },
+    {
+        "id": "446",
+        "level": 5,
+        "word": "終る",
+        "rom": "owaru",
+        "hiragana": "おわる",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to finish",
+            "to end"
+        ]
+    },
+    {
+        "id": "447",
+        "level": 5,
+        "word": "泳ぐ",
+        "rom": "oyogu",
+        "hiragana": "およぐ",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to swim"
+        ]
+    },
+    {
+        "id": "448",
+        "level": 5,
+        "word": "パーティー",
+        "rom": "paatii",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "party"
+        ]
+    },
+    {
+        "id": "449",
+        "level": 5,
+        "word": "パン",
+        "rom": "pan",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "bread"
+        ]
+    },
+    {
+        "id": "450",
+        "level": 5,
+        "word": "ページ",
+        "rom": "peeji",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "page"
+        ]
+    },
+    {
+        "id": "451",
+        "level": 5,
+        "word": "ペン",
+        "rom": "pen",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "pen"
+        ]
+    },
+    {
+        "id": "452",
+        "level": 5,
+        "word": "ペット",
+        "rom": "petto",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "pet"
+        ]
+    },
+    {
+        "id": "453",
+        "level": 5,
+        "word": "ポケット",
+        "rom": "poketto",
+        "hiragana": "",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "pocket"
+        ]
+    },
+    {
+        "id": "454",
+        "level": 5,
+        "word": "ポスト",
+        "rom": "posuto",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "post"
+        ]
+    },
+    {
+        "id": "455",
+        "level": 5,
+        "word": "プール",
+        "rom": "puuru",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "swimming pool"
+        ]
+    },
+    {
+        "id": "456",
+        "level": 5,
+        "word": "来月",
+        "rom": "raigetsu",
+        "hiragana": "らいげつ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "next month"
+        ]
+    },
+    {
+        "id": "457",
+        "level": 5,
+        "word": "来年",
+        "rom": "rainen",
+        "hiragana": "らいねん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "next year"
+        ]
+    },
+    {
+        "id": "458",
+        "level": 5,
+        "word": "来週",
+        "rom": "raishuu",
+        "hiragana": "らいしゅう",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "next week"
+        ]
+    },
+    {
+        "id": "459",
+        "level": 5,
+        "word": "ラジオ",
+        "rom": "rajiio",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "radio"
+        ]
+    },
+    {
+        "id": "460",
+        "level": 5,
+        "word": "零",
+        "rom": "rei",
+        "hiragana": "れい",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "zero"
+        ]
+    },
+    {
+        "id": "461",
+        "level": 5,
+        "word": "冷蔵庫",
+        "rom": "reizouko",
+        "hiragana": "れいぞうこ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "refrigerator"
+        ]
+    },
+    {
+        "id": "462",
+        "level": 5,
+        "word": "レコード",
+        "rom": "rekoodo",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "record"
+        ]
+    },
+    {
+        "id": "463",
+        "level": 5,
+        "word": "練習",
+        "rom": "renshuu",
+        "hiragana": "れんしゅう",
+        "types": [
+            "Noun",
+            "Verb",
+            "Suru verb"
+        ],
+        "translations": [
+            "practice",
+            "practicing"
+        ]
+    },
+    {
+        "id": "464",
+        "level": 5,
+        "word": "レストラン",
+        "rom": "resutoran",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "restaurant"
+        ]
+    },
+    {
+        "id": "465",
+        "level": 5,
+        "word": "立派",
+        "rom": "rippa",
+        "hiragana": "りっぱ",
+        "types": [
+            "Adjective",
+            "な-adjective"
+        ],
+        "translations": [
+            "splendid"
+        ]
+    },
+    {
+        "id": "466",
+        "level": 5,
+        "word": "六",
+        "rom": "roku",
+        "hiragana": "ろく",
+        "types": [
+            "Noun",
+            "Numeric"
+        ],
+        "translations": [
+            "six",
+            "6"
+        ]
+    },
+    {
+        "id": "467",
+        "level": 5,
+        "word": "廊下",
+        "rom": "rouka",
+        "hiragana": "ろうか",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "corridor",
+            "hallway",
+            "passageway"
+        ]
+    },
+    {
+        "id": "468",
+        "level": 5,
+        "word": "旅行",
+        "rom": "ryokou",
+        "hiragana": "りょこう",
+        "types": [
+            "Noun",
+            "Verb",
+            "Suru verb"
+        ],
+        "translations": [
+            "travel",
+            "trip",
+            "journey",
+            "excursion",
+            "tour"
+        ]
+    },
+    {
+        "id": "469",
+        "level": 5,
+        "word": "料理",
+        "rom": "ryouri",
+        "hiragana": "りょうり",
+        "types": [
+            "Noun",
+            "Suru verb"
+        ],
+        "translations": [
+            "cuisine"
+        ]
+    },
+    {
+        "id": "470",
+        "level": 5,
+        "word": "両親",
+        "rom": "ryoushin",
+        "hiragana": "りょうしん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "parents",
+            "both parents"
+        ]
+    },
+    {
+        "id": "471",
+        "level": 5,
+        "word": "留学生",
+        "rom": "ryuugakusei",
+        "hiragana": "りゅうがくせい",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "overseas student",
+            "exchange student"
+        ]
+    },
+    {
+        "id": "472",
+        "level": 5,
+        "word": "さあ",
+        "rom": "saa",
+        "hiragana": "",
+        "types": [
+            "Conjunction"
+        ],
+        "translations": [
+            "well…"
+        ]
+    },
+    {
+        "id": "473",
+        "level": 5,
+        "word": "財布",
+        "rom": "saifu",
+        "hiragana": "さいふ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "purse",
+            "wallet"
+        ]
+    },
+    {
+        "id": "474",
+        "level": 5,
+        "word": "魚",
+        "rom": "sakana",
+        "hiragana": "さかな",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "fish"
+        ]
+    },
+    {
+        "id": "475",
+        "level": 5,
+        "word": "先",
+        "rom": "saki",
+        "hiragana": "さき",
+        "types": [
+            "Noun",
+            "Prefix",
+            "Suffix"
+        ],
+        "translations": [
+            "previous",
+            "prior",
+            "first",
+            "earlier"
+        ]
+    },
+    {
+        "id": "476",
+        "level": 5,
+        "word": "咲く",
+        "rom": "saku",
+        "hiragana": "さく",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to bloom"
+        ]
+    },
+    {
+        "id": "477",
+        "level": 5,
+        "word": "作文",
+        "rom": "sakubun",
+        "hiragana": "さくぶん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "writing",
+            "composition"
+        ]
+    },
+    {
+        "id": "478",
+        "level": 5,
+        "word": "寒い",
+        "rom": "samui",
+        "hiragana": "さむい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "cold"
+        ]
+    },
+    {
+        "id": "479",
+        "level": 5,
+        "word": "三",
+        "rom": "san",
+        "hiragana": "さん",
+        "types": [
+            "Noun",
+            "Numeric"
+        ],
+        "translations": [
+            "three",
+            "3"
+        ]
+    },
+    {
+        "id": "480",
+        "level": 5,
+        "word": "散歩",
+        "rom": "sanpo",
+        "hiragana": "さんぽ",
+        "types": [
+            "Noun",
+            "Verb",
+            "Suru verb"
+        ],
+        "translations": [
+            "walk",
+            "stroll"
+        ]
+    },
+    {
+        "id": "481",
+        "level": 5,
+        "word": "再来年",
+        "rom": "sarainen",
+        "hiragana": "さらいねん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "year after next"
+        ]
+    },
+    {
+        "id": "482",
+        "level": 5,
+        "word": "差す",
+        "rom": "sasu",
+        "hiragana": "さす",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to stretch out hands",
+            "to raise an umbrella"
+        ]
+    },
+    {
+        "id": "483",
+        "level": 5,
+        "word": "砂糖",
+        "rom": "satou",
+        "hiragana": "さとう",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "sugar"
+        ]
+    },
+    {
+        "id": "484",
+        "level": 5,
+        "word": "背",
+        "rom": "se",
+        "hiragana": "せ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "height",
+            "stature",
+            "back",
+            "spine"
+        ]
+    },
+    {
+        "id": "485",
+        "level": 5,
+        "word": "背広",
+        "rom": "sebiro",
+        "hiragana": "せびろ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "business suit"
+        ]
+    },
+    {
+        "id": "486",
+        "level": 5,
+        "word": "セーター",
+        "rom": "seetaa",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "sweater",
+            "jumper"
+        ]
+    },
+    {
+        "id": "487",
+        "level": 5,
+        "word": "生徒",
+        "rom": "seito",
+        "hiragana": "せいと",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "pupil",
+            "student"
+        ]
+    },
+    {
+        "id": "488",
+        "level": 5,
+        "word": "石鹼",
+        "rom": "sekken",
+        "hiragana": "せっけん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "soap"
+        ]
+    },
+    {
+        "id": "489",
+        "level": 5,
+        "word": "狭い",
+        "rom": "semai",
+        "hiragana": "せまい",
+        "types": [
+            "い-adjective"
+        ],
+        "translations": [
+            "narrow"
+        ]
+    },
+    {
+        "id": "490",
+        "level": 5,
+        "word": "千",
+        "rom": "sen",
+        "hiragana": "せん",
+        "types": [
+            "Noun",
+            "Numeric"
+        ],
+        "translations": [
+            "1",
+            "000",
+            "thousand"
+        ]
+    },
+    {
+        "id": "491",
+        "level": 5,
+        "word": "先月",
+        "rom": "sengetsu",
+        "hiragana": "せんげつ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "last month"
+        ]
+    },
+    {
+        "id": "492",
+        "level": 5,
+        "word": "先生",
+        "rom": "sensei",
+        "hiragana": "せんせい",
+        "types": [
+            "Noun",
+            "Suffix"
+        ],
+        "translations": [
+            "teacher",
+            "instructor",
+            "master"
+        ]
+    },
+    {
+        "id": "493",
+        "level": 5,
+        "word": "先週",
+        "rom": "senshuu",
+        "hiragana": "せんしゅう",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "last week"
+        ]
+    },
+    {
+        "id": "494",
+        "level": 5,
+        "word": "洗濯",
+        "rom": "sentaku",
+        "hiragana": "せんたく",
+        "types": [
+            "Noun",
+            "Suru verb"
+        ],
+        "translations": [
+            "washing",
+            "laundry"
+        ]
+    },
+    {
+        "id": "495",
+        "level": 5,
+        "word": "写真",
+        "rom": "shashin",
+        "hiragana": "しゃしん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "photograph",
+            "photo"
+        ]
+    },
+    {
+        "id": "496",
+        "level": 5,
+        "word": "シャツ",
+        "rom": "shatsu",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "shirt"
+        ]
+    },
+    {
+        "id": "497",
+        "level": 5,
+        "word": "シャワー",
+        "rom": "shawaa",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "shower"
+        ]
+    },
+    {
+        "id": "498",
+        "level": 5,
+        "word": "四",
+        "rom": "shi",
+        "hiragana": "し",
+        "types": [
+            "Noun",
+            "Numeric"
+        ],
+        "translations": [
+            "four",
+            "4"
+        ]
+    },
+    {
+        "id": "499",
+        "level": 5,
+        "word": "七",
+        "rom": "shichi",
+        "hiragana": "しち",
+        "types": [
+            "Noun",
+            "Numeric"
+        ],
+        "translations": [
+            "seven",
+            "7"
+        ]
+    },
+    {
+        "id": "500",
+        "level": 5,
+        "word": "仕事",
+        "rom": "shigoto",
+        "hiragana": "しごと",
+        "types": [
+            "Noun",
+            "Verb",
+            "Suru verb"
+        ],
+        "translations": [
+            "work",
+            "job",
+            "business"
+        ]
+    },
+    {
+        "id": "500",
+        "level": 5,
+        "word": "仕事",
+        "rom": "shigoto",
+        "hiragana": "しごと",
+        "types": [
+            "Noun",
+            "Verb",
+            "Suru verb"
+        ],
+        "translations": [
+            "work",
+            "job",
+            "business"
+        ]
+    },
+    {
+        "id": "501",
+        "level": 5,
+        "word": "閉まる",
+        "rom": "shimaru",
+        "hiragana": "しまる",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to close",
+            "to be closed"
+        ]
+    },
+    {
+        "id": "502",
+        "level": 5,
+        "word": "締める",
+        "rom": "shimeru",
+        "hiragana": "しめる",
+        "types": [
+            "Verb",
+            "Ichidan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to tie",
+            "to fasten",
+            "to tighten​"
+        ]
+    },
+    {
+        "id": "503",
+        "level": 5,
+        "word": "閉める",
+        "rom": "shimeru",
+        "hiragana": "しめる",
+        "types": [
+            "Verb",
+            "Ichidan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to close",
+            "to shut"
+        ]
+    },
+    {
+        "id": "504",
+        "level": 5,
+        "word": "新聞",
+        "rom": "shinbun",
+        "hiragana": "しんぶん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "newspaper"
+        ]
+    },
+    {
+        "id": "505",
+        "level": 5,
+        "word": "死ぬ",
+        "rom": "shinu",
+        "hiragana": "しぬ",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to die"
+        ]
+    },
+    {
+        "id": "506",
+        "level": 5,
+        "word": "塩",
+        "rom": "shio",
+        "hiragana": "しお",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "salt"
+        ]
+    },
+    {
+        "id": "507",
+        "level": 5,
+        "word": "白",
+        "rom": "shiro",
+        "hiragana": "しろ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "white",
+            "innocence",
+            "innocent person"
+        ]
+    },
+    {
+        "id": "508",
+        "level": 5,
+        "word": "白い",
+        "rom": "shiroi",
+        "hiragana": "しろい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "white"
+        ]
+    },
+    {
+        "id": "509",
+        "level": 5,
+        "word": "知る",
+        "rom": "shiru",
+        "hiragana": "しる",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to know"
+        ]
+    },
+    {
+        "id": "510",
+        "level": 5,
+        "word": "下",
+        "rom": "shita",
+        "hiragana": "した",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "below",
+            "down",
+            "under",
+            "bottom"
+        ]
+    },
+    {
+        "id": "511",
+        "level": 5,
+        "word": "質問",
+        "rom": "shitsumon",
+        "hiragana": "しつもん",
+        "types": [
+            "Noun",
+            "Verb",
+            "Suru verb"
+        ],
+        "translations": [
+            "question",
+            "inquiry"
+        ]
+    },
+    {
+        "id": "512",
+        "level": 5,
+        "word": "静か",
+        "rom": "shizuka",
+        "hiragana": "しずか",
+        "types": [
+            "Adjective",
+            "な-adjective"
+        ],
+        "translations": [
+            "quiet"
+        ]
+    },
+    {
+        "id": "513",
+        "level": 5,
+        "word": "食堂",
+        "rom": "shokudou",
+        "hiragana": "しょくどう",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "cafeteria",
+            "dining room"
+        ]
+    },
+    {
+        "id": "514",
+        "level": 5,
+        "word": "醬油",
+        "rom": "shouyu",
+        "hiragana": "しょうゆ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "soy sauce"
+        ]
+    },
+    {
+        "id": "515",
+        "level": 5,
+        "word": "宿題",
+        "rom": "shukudai",
+        "hiragana": "しゅくだい",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "homework",
+            "assignment",
+            "pending issue"
+        ]
+    },
+    {
+        "id": "516",
+        "level": 5,
+        "word": "そば",
+        "rom": "soba",
+        "hiragana": "",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "near",
+            "beside"
+        ]
+    },
+    {
+        "id": "517",
+        "level": 5,
+        "word": "そっち",
+        "rom": "socchi",
+        "hiragana": "",
+        "types": [
+            "Pronoun"
+        ],
+        "translations": [
+            "that way",
+            "​over there"
+        ]
+    },
+    {
+        "id": "518",
+        "level": 5,
+        "word": "そちら",
+        "rom": "sochira",
+        "hiragana": "",
+        "types": [
+            "Pronoun"
+        ],
+        "translations": [
+            "that way (distant from speaker",
+            "close to listener)",
+            "you",
+            "your family"
+        ]
+    },
+    {
+        "id": "519",
+        "level": 5,
+        "word": "そこ",
+        "rom": "soko",
+        "hiragana": "",
+        "types": [
+            "Pronoun"
+        ],
+        "translations": [
+            "that place​",
+            "there"
+        ]
+    },
+    {
+        "id": "520",
+        "level": 5,
+        "word": "その",
+        "rom": "sono",
+        "hiragana": "",
+        "types": [
+            "Pre-noun adjectival"
+        ],
+        "translations": [
+            "that"
+        ]
+    },
+    {
+        "id": "521",
+        "level": 5,
+        "word": "空",
+        "rom": "sora",
+        "hiragana": "そら",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "sky",
+            "the air"
+        ]
+    },
+    {
+        "id": "522",
+        "level": 5,
+        "word": "それ",
+        "rom": "sore",
+        "hiragana": "",
+        "types": [
+            "Pronoun"
+        ],
+        "translations": [
+            "that"
+        ]
+    },
+    {
+        "id": "523",
+        "level": 5,
+        "word": "それでは",
+        "rom": "soredewa",
+        "hiragana": "",
+        "types": [
+            "Expression"
+        ],
+        "translations": [
+            "in that situation"
+        ]
+    },
+    {
+        "id": "524",
+        "level": 5,
+        "word": "外",
+        "rom": "soto",
+        "hiragana": "そと",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "outside",
+            "exterior",
+            ""
+        ]
+    },
+    {
+        "id": "525",
+        "level": 5,
+        "word": "掃除",
+        "rom": "souji",
+        "hiragana": "そうじ",
+        "types": [
+            "Noun",
+            "Suru verb"
+        ],
+        "translations": [
+            "to clean",
+            "to sweep"
+        ]
+    },
+    {
+        "id": "526",
+        "level": 5,
+        "word": "直ぐに",
+        "rom": "suguni",
+        "hiragana": "すぐに",
+        "types": [
+            "Adverb"
+        ],
+        "translations": [
+            "immediately",
+            "right away",
+            "instantly​"
+        ]
+    },
+    {
+        "id": "527",
+        "level": 5,
+        "word": "水曜日",
+        "rom": "suiyoubi",
+        "hiragana": "すいようび",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "Wednesday"
+        ]
+    },
+    {
+        "id": "528",
+        "level": 5,
+        "word": "スカート",
+        "rom": "sukaato",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "skirt"
+        ]
+    },
+    {
+        "id": "529",
+        "level": 5,
+        "word": "好き",
+        "rom": "suki",
+        "hiragana": "すき",
+        "types": [
+            "Noun",
+            "Adjective",
+            "な-adjective"
+        ],
+        "translations": [
+            "like"
+        ]
+    },
+    {
+        "id": "530",
+        "level": 5,
+        "word": "少し",
+        "rom": "sukoshi",
+        "hiragana": "すこし",
+        "types": [
+            "Noun",
+            "Adverb"
+        ],
+        "translations": [
+            "a little (bit)",
+            "small quantity",
+            "few",
+            "short distance"
+        ]
+    },
+    {
+        "id": "531",
+        "level": 5,
+        "word": "少ない",
+        "rom": "sukunai",
+        "hiragana": "すくない",
+        "types": [
+            "い-adjective"
+        ],
+        "translations": [
+            "few",
+            "a little",
+            "scarce",
+            "insufficient",
+            "seldom"
+        ]
+    },
+    {
+        "id": "532",
+        "level": 5,
+        "word": "住む",
+        "rom": "sumu",
+        "hiragana": "すむ",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to live in",
+            "to reside",
+            "to inhabit",
+            "to dwell",
+            "to abide"
+        ]
+    },
+    {
+        "id": "533",
+        "level": 5,
+        "word": "スポーツ",
+        "rom": "supootsu",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "sport",
+            "sports"
+        ]
+    },
+    {
+        "id": "534",
+        "level": 5,
+        "word": "スプーン",
+        "rom": "supuun",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "spoon"
+        ]
+    },
+    {
+        "id": "535",
+        "level": 5,
+        "word": "スリッパ",
+        "rom": "surippa",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "slipper",
+            "slippers"
+        ]
+    },
+    {
+        "id": "536",
+        "level": 5,
+        "word": "ストーブ",
+        "rom": "sutoobu",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "heater",
+            "stove"
+        ]
+    },
+    {
+        "id": "537",
+        "level": 5,
+        "word": "吸う",
+        "rom": "suu",
+        "hiragana": "すう",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to smoke",
+            "to suck"
+        ]
+    },
+    {
+        "id": "538",
+        "level": 5,
+        "word": "座る",
+        "rom": "suwaru",
+        "hiragana": "すわる",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to sit"
+        ]
+    },
+    {
+        "id": "539",
+        "level": 5,
+        "word": "涼しい",
+        "rom": "suzushii",
+        "hiragana": "すずしい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "refreshing",
+            "cool"
+        ]
+    },
+    {
+        "id": "540",
+        "level": 5,
+        "word": "たばこ",
+        "rom": "tabako",
+        "hiragana": "",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "tobacco",
+            "cigarette"
+        ]
+    },
+    {
+        "id": "541",
+        "level": 5,
+        "word": "食べ物",
+        "rom": "tabemono",
+        "hiragana": "たべもの",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "food"
+        ]
+    },
+    {
+        "id": "542",
+        "level": 5,
+        "word": "食べる",
+        "rom": "taberu",
+        "hiragana": "たべる",
+        "types": [
+            "Verb",
+            "Ichidan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to eat"
+        ]
+    },
+    {
+        "id": "543",
+        "level": 5,
+        "word": "多分",
+        "rom": "tabun",
+        "hiragana": "たぶん",
+        "types": [
+            "Adjective",
+            "な-adjective",
+            "Adverb"
+        ],
+        "translations": [
+            "perhaps",
+            "probably"
+        ]
+    },
+    {
+        "id": "544",
+        "level": 5,
+        "word": "大変",
+        "rom": "taihen",
+        "hiragana": "たいへん",
+        "types": [
+            "Noun",
+            "Adjective",
+            "な-adjective",
+            "Adverb"
+        ],
+        "translations": [
+            "very",
+            "greatly",
+            "terribly",
+            "serious",
+            "difficult"
+        ]
+    },
+    {
+        "id": "545",
+        "level": 5,
+        "word": "大切",
+        "rom": "taisetsu",
+        "hiragana": "たいせつ",
+        "types": [
+            "Noun",
+            "Adjective",
+            "な-adjective"
+        ],
+        "translations": [
+            "important",
+            "necessary",
+            "indispensable",
+            "beloved"
+        ]
+    },
+    {
+        "id": "546",
+        "level": 5,
+        "word": "大使館",
+        "rom": "taishikan",
+        "hiragana": "たいしかん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "embassy"
+        ]
+    },
+    {
+        "id": "547",
+        "level": 5,
+        "word": "高い",
+        "rom": "takai",
+        "hiragana": "たかい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "high",
+            "tall",
+            "expensive",
+            "above average"
+        ]
+    },
+    {
+        "id": "548",
+        "level": 5,
+        "word": "沢山",
+        "rom": "takusan",
+        "hiragana": "たくさん",
+        "types": [
+            "Noun",
+            "Adverbial Noun",
+            "Adjective",
+            "な-adjective"
+        ],
+        "translations": [
+            "many"
+        ]
+    },
+    {
+        "id": "549",
+        "level": 5,
+        "word": "タクシー",
+        "rom": "takushii",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "taxi"
+        ]
+    },
+    {
+        "id": "550",
+        "level": 5,
+        "word": "卵",
+        "rom": "tamago",
+        "hiragana": "たまご",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "eggs",
+            "egg"
+        ]
+    },
+    {
+        "id": "551",
+        "level": 5,
+        "word": "誕生日",
+        "rom": "tanjoubi",
+        "hiragana": "たんじょうび",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "birthday"
+        ]
+    },
+    {
+        "id": "552",
+        "level": 5,
+        "word": "頼む",
+        "rom": "tanomu",
+        "hiragana": "たのむ",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to ask"
+        ]
+    },
+    {
+        "id": "553",
+        "level": 5,
+        "word": "楽しい",
+        "rom": "tanoshii",
+        "hiragana": "たのしい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "enjoyable",
+            "fun"
+        ]
+    },
+    {
+        "id": "554",
+        "level": 5,
+        "word": "縦",
+        "rom": "tate",
+        "hiragana": "たて",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "length",
+            "height"
+        ]
+    },
+    {
+        "id": "555",
+        "level": 5,
+        "word": "建物",
+        "rom": "tatemono",
+        "hiragana": "たてもの",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "building"
+        ]
+    },
+    {
+        "id": "556",
+        "level": 5,
+        "word": "立つ",
+        "rom": "tatsu",
+        "hiragana": "たつ",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to stand",
+            "to stand up​"
+        ]
+    },
+    {
+        "id": "557",
+        "level": 5,
+        "word": "手",
+        "rom": "te",
+        "hiragana": "て",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "hand",
+            "arm"
+        ]
+    },
+    {
+        "id": "558",
+        "level": 5,
+        "word": "テーブル",
+        "rom": "teeburu",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "table"
+        ]
+    },
+    {
+        "id": "559",
+        "level": 5,
+        "word": "テープ",
+        "rom": "teepu",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "tape"
+        ]
+    },
+    {
+        "id": "560",
+        "level": 5,
+        "word": "テープレコーダー",
+        "rom": "teepurekoodaa",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "tape recorder"
+        ]
+    },
+    {
+        "id": "561",
+        "level": 5,
+        "word": "手紙",
+        "rom": "tegami",
+        "hiragana": "てがみ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "Letter (message)​"
+        ]
+    },
+    {
+        "id": "562",
+        "level": 5,
+        "word": "天気",
+        "rom": "tenki",
+        "hiragana": "てんき",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "weather",
+            "the elements"
+        ]
+    },
+    {
+        "id": "563",
+        "level": 5,
+        "word": "テレビ",
+        "rom": "terebi",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "television",
+            "TV​"
+        ]
+    },
+    {
+        "id": "564",
+        "level": 5,
+        "word": "テスト",
+        "rom": "tesuto",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Suru verb",
+            "Katakana"
+        ],
+        "translations": [
+            "examination",
+            "quiz",
+            "test"
+        ]
+    },
+    {
+        "id": "565",
+        "level": 5,
+        "word": "戸",
+        "rom": "to",
+        "hiragana": "と",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "Japanese style door"
+        ]
+    },
+    {
+        "id": "566",
+        "level": 5,
+        "word": "飛ぶ",
+        "rom": "tobu",
+        "hiragana": "とぶ",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to fly",
+            "to hop"
+        ]
+    },
+    {
+        "id": "567",
+        "level": 5,
+        "word": "トイレ",
+        "rom": "toire",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "toilet"
+        ]
+    },
+    {
+        "id": "568",
+        "level": 5,
+        "word": "時計",
+        "rom": "tokei",
+        "hiragana": "とけい",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "watch",
+            "clock",
+            "timepiece"
+        ]
+    },
+    {
+        "id": "569",
+        "level": 5,
+        "word": "時",
+        "rom": "toki",
+        "hiragana": "とき",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "time",
+            "moment",
+            "occasion",
+            "chance"
+        ]
+    },
+    {
+        "id": "570",
+        "level": 5,
+        "word": "時々",
+        "rom": "tokidoki",
+        "hiragana": "ときどき",
+        "types": [
+            "Noun",
+            "Adverb"
+        ],
+        "translations": [
+            "sometimes",
+            "at times"
+        ]
+    },
+    {
+        "id": "571",
+        "level": 5,
+        "word": "所",
+        "rom": "tokoro",
+        "hiragana": "ところ",
+        "types": [
+            "Noun",
+            "Suffix"
+        ],
+        "translations": [
+            "place"
+        ]
+    },
+    {
+        "id": "572",
+        "level": 5,
+        "word": "止まる",
+        "rom": "tomaru",
+        "hiragana": "とまる",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to stop",
+            "to come to a halt"
+        ]
+    },
+    {
+        "id": "573",
+        "level": 5,
+        "word": "友達",
+        "rom": "tomodachi",
+        "hiragana": "ともだち",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "friend",
+            "companion"
+        ]
+    },
+    {
+        "id": "574",
+        "level": 5,
+        "word": "隣",
+        "rom": "tonari",
+        "hiragana": "となり",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "next door to"
+        ]
+    },
+    {
+        "id": "575",
+        "level": 5,
+        "word": "遠い",
+        "rom": "tooi",
+        "hiragana": "とおい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "far"
+        ]
+    },
+    {
+        "id": "576",
+        "level": 5,
+        "word": "十日",
+        "rom": "tooka",
+        "hiragana": "とおか",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "tenth day of the month",
+            "10 days"
+        ]
+    },
+    {
+        "id": "577",
+        "level": 5,
+        "word": "鳥",
+        "rom": "tori",
+        "hiragana": "とり",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "bird"
+        ]
+    },
+    {
+        "id": "578",
+        "level": 5,
+        "word": "鶏肉",
+        "rom": "toriniku",
+        "hiragana": "とりにく",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "chicken meat"
+        ]
+    },
+    {
+        "id": "579",
+        "level": 5,
+        "word": "撮る",
+        "rom": "toru",
+        "hiragana": "とる",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to take a photo or record a film"
+        ]
+    },
+    {
+        "id": "580",
+        "level": 5,
+        "word": "取る",
+        "rom": "toru",
+        "hiragana": "とる",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to take",
+            "to pick up",
+            "to harvest",
+            "to earn",
+            "to win",
+            "to choose"
+        ]
+    },
+    {
+        "id": "581",
+        "level": 5,
+        "word": "年",
+        "rom": "toshi",
+        "hiragana": "とし",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "year",
+            "age"
+        ]
+    },
+    {
+        "id": "582",
+        "level": 5,
+        "word": "図書館",
+        "rom": "toshokan",
+        "hiragana": "としょかん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "library"
+        ]
+    },
+    {
+        "id": "583",
+        "level": 5,
+        "word": "次",
+        "rom": "tsugi",
+        "hiragana": "つぎ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "next"
+        ]
+    },
+    {
+        "id": "584",
+        "level": 5,
+        "word": "一日",
+        "rom": "tsuitachi",
+        "hiragana": "ついたち",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "first day of the month"
+        ]
+    },
+    {
+        "id": "585",
+        "level": 5,
+        "word": "疲れる",
+        "rom": "tsukareru",
+        "hiragana": "つかれる",
+        "types": [
+            "Verb",
+            "Ichidan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to get tired"
+        ]
+    },
+    {
+        "id": "586",
+        "level": 5,
+        "word": "使う",
+        "rom": "tsukau",
+        "hiragana": "つかう",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to use"
+        ]
+    },
+    {
+        "id": "587",
+        "level": 5,
+        "word": "つける",
+        "rom": "tsukeru",
+        "hiragana": "",
+        "types": [
+            "Verb",
+            "Ichidan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to turn on"
+        ]
+    },
+    {
+        "id": "588",
+        "level": 5,
+        "word": "着く",
+        "rom": "tsuku",
+        "hiragana": "つく",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to arrive at"
+        ]
+    },
+    {
+        "id": "589",
+        "level": 5,
+        "word": "机",
+        "rom": "tsukue",
+        "hiragana": "つくえ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "desk"
+        ]
+    },
+    {
+        "id": "590",
+        "level": 5,
+        "word": "作る",
+        "rom": "tsukuru",
+        "hiragana": "つくる",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to make"
+        ]
+    },
+    {
+        "id": "591",
+        "level": 5,
+        "word": "詰まらない",
+        "rom": "tsumaranai",
+        "hiragana": "つまらない",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "boring"
+        ]
+    },
+    {
+        "id": "592",
+        "level": 5,
+        "word": "冷たい",
+        "rom": "tsumetai",
+        "hiragana": "つめたい",
+        "types": [
+            "い-adjective"
+        ],
+        "translations": [
+            "cold to the touch"
+        ]
+    },
+    {
+        "id": "593",
+        "level": 5,
+        "word": "勤める",
+        "rom": "tsutomeru",
+        "hiragana": "つとめる",
+        "types": [
+            "Verb",
+            "Ichidan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to work for someone"
+        ]
+    },
+    {
+        "id": "594",
+        "level": 5,
+        "word": "強い",
+        "rom": "tsuyoi",
+        "hiragana": "つよい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "powerful"
+        ]
+    },
+    {
+        "id": "595",
+        "level": 5,
+        "word": "上",
+        "rom": "ue",
+        "hiragana": "うえ",
+        "types": [
+            "Noun",
+            "Suffix"
+        ],
+        "translations": [
+            "above",
+            "up",
+            "over",
+            "top",
+            "surface"
+        ]
+    },
+    {
+        "id": "596",
+        "level": 5,
+        "word": "生まれる",
+        "rom": "umareru",
+        "hiragana": "うまれる",
+        "types": [
+            "Verb",
+            "Ichidan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to be born"
+        ]
+    },
+    {
+        "id": "597",
+        "level": 5,
+        "word": "海",
+        "rom": "umi",
+        "hiragana": "うみ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "sea"
+        ]
+    },
+    {
+        "id": "598",
+        "level": 5,
+        "word": "売る",
+        "rom": "uru",
+        "hiragana": "うる",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to sell"
+        ]
+    },
+    {
+        "id": "599",
+        "level": 5,
+        "word": "煩い",
+        "rom": "urusai",
+        "hiragana": "うるさい",
+        "types": [
+            "い-adjective"
+        ],
+        "translations": [
+            "noisy",
+            "annoying"
+        ]
+    },
+    {
+        "id": "600",
+        "level": 5,
+        "word": "後ろ",
+        "rom": "ushiro",
+        "hiragana": "うしろ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "back",
+            "behind",
+            "rear"
+        ]
+    },
+    {
+        "id": "600",
+        "level": 5,
+        "word": "後ろ",
+        "rom": "ushiro",
+        "hiragana": "うしろ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "back",
+            "behind",
+            "rear"
+        ]
+    },
+    {
+        "id": "601",
+        "level": 5,
+        "word": "薄い",
+        "rom": "usui",
+        "hiragana": "うすい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "thin",
+            "weak"
+        ]
+    },
+    {
+        "id": "602",
+        "level": 5,
+        "word": "歌",
+        "rom": "uta",
+        "hiragana": "うた",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "song"
+        ]
+    },
+    {
+        "id": "603",
+        "level": 5,
+        "word": "歌う",
+        "rom": "utau",
+        "hiragana": "うたう",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Intransitive verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to sing"
+        ]
+    },
+    {
+        "id": "604",
+        "level": 5,
+        "word": "上着",
+        "rom": "uwagi",
+        "hiragana": "うわぎ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "coat",
+            "tunic",
+            "jacket",
+            "outer garment"
+        ]
+    },
+    {
+        "id": "605",
+        "level": 5,
+        "word": "ワイシャツ",
+        "rom": "waishatsu",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana",
+            "Wasei"
+        ],
+        "translations": [
+            "shirt"
+        ]
+    },
+    {
+        "id": "606",
+        "level": 5,
+        "word": "若い",
+        "rom": "wakai",
+        "hiragana": "わかい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "young"
+        ]
+    },
+    {
+        "id": "607",
+        "level": 5,
+        "word": "分かる",
+        "rom": "wakaru",
+        "hiragana": "わかる",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to understand",
+            "to comprehend",
+            "to grasp",
+            "to see",
+            "to get",
+            "to follow"
+        ]
+    },
+    {
+        "id": "608",
+        "level": 5,
+        "word": "悪い",
+        "rom": "warui",
+        "hiragana": "わるい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "bad",
+            "poor",
+            "undesirable"
+        ]
+    },
+    {
+        "id": "609",
+        "level": 5,
+        "word": "忘れる",
+        "rom": "wasureru",
+        "hiragana": "わすれる",
+        "types": [
+            "Verb",
+            "Ichidan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to forget"
+        ]
+    },
+    {
+        "id": "610",
+        "level": 5,
+        "word": "渡る",
+        "rom": "wataru",
+        "hiragana": "わたる",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to go across"
+        ]
+    },
+    {
+        "id": "611",
+        "level": 5,
+        "word": "私",
+        "rom": "watashi",
+        "hiragana": "わたし",
+        "types": [
+            "Pronoun"
+        ],
+        "translations": [
+            "I",
+            "myself"
+        ]
+    },
+    {
+        "id": "612",
+        "level": 5,
+        "word": "渡す",
+        "rom": "watasu",
+        "hiragana": "わたす",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to hand over"
+        ]
+    },
+    {
+        "id": "613",
+        "level": 5,
+        "word": "山",
+        "rom": "yama",
+        "hiragana": "やま",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "mountain",
+            "hill"
+        ]
+    },
+    {
+        "id": "614",
+        "level": 5,
+        "word": "八百屋",
+        "rom": "yaoya",
+        "hiragana": "やおや",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "greengrocer",
+            "fruit and vegetable shop",
+            "versatile"
+        ]
+    },
+    {
+        "id": "615",
+        "level": 5,
+        "word": "やる",
+        "rom": "yaru",
+        "hiragana": "",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to do"
+        ]
+    },
+    {
+        "id": "616",
+        "level": 5,
+        "word": "野菜",
+        "rom": "yasai",
+        "hiragana": "やさい",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "vegetable"
+        ]
+    },
+    {
+        "id": "617",
+        "level": 5,
+        "word": "易しい",
+        "rom": "yasashii",
+        "hiragana": "やさしい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "easy",
+            "simple"
+        ]
+    },
+    {
+        "id": "618",
+        "level": 5,
+        "word": "安い",
+        "rom": "yasui",
+        "hiragana": "やすい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "cheap",
+            "inexpensive"
+        ]
+    },
+    {
+        "id": "619",
+        "level": 5,
+        "word": "休み",
+        "rom": "yasumi",
+        "hiragana": "やすみ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "rest",
+            "vacation",
+            "holiday"
+        ]
+    },
+    {
+        "id": "620",
+        "level": 5,
+        "word": "休む",
+        "rom": "yasumu",
+        "hiragana": "やすむ",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Intransitive verb"
+        ],
+        "translations": [
+            "to be absent",
+            "to take a day off",
+            "to rest"
+        ]
+    },
+    {
+        "id": "621",
+        "level": 5,
+        "word": "八つ",
+        "rom": "yattsu",
+        "hiragana": "やっつ",
+        "types": [
+            "Noun",
+            "Numeric"
+        ],
+        "translations": [
+            "eight: 8"
+        ]
+    },
+    {
+        "id": "622",
+        "level": 5,
+        "word": "呼ぶ",
+        "rom": "yobu",
+        "hiragana": "よぶ",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to call out",
+            "to invite"
+        ]
+    },
+    {
+        "id": "623",
+        "level": 5,
+        "word": "良い",
+        "rom": [
+            "yoi",
+            "ii"
+        ],
+        "hiragana": "よいいい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "good"
+        ]
+    },
+    {
+        "id": "624",
+        "level": 5,
+        "word": "四日",
+        "rom": "yokka",
+        "hiragana": "よっか",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "fourth day of the month",
+            "4 days"
+        ]
+    },
+    {
+        "id": "625",
+        "level": 5,
+        "word": "横",
+        "rom": "yoko",
+        "hiragana": "よこ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "beside",
+            "side",
+            "width"
+        ]
+    },
+    {
+        "id": "626",
+        "level": 5,
+        "word": "よく",
+        "rom": "yoku",
+        "hiragana": "",
+        "types": [
+            "Adverb"
+        ],
+        "translations": [
+            "often",
+            "well"
+        ]
+    },
+    {
+        "id": "627",
+        "level": 5,
+        "word": "読む",
+        "rom": "yomu",
+        "hiragana": "よむ",
+        "types": [
+            "Verb",
+            "Godan verb",
+            "Transitive verb"
+        ],
+        "translations": [
+            "to read",
+            "to guess",
+            "to predict",
+            "to read (someone's thoughts)"
+        ]
+    },
+    {
+        "id": "628",
+        "level": 5,
+        "word": "夜",
+        "rom": "yoru",
+        "hiragana": "よる",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "evening",
+            "night"
+        ]
+    },
+    {
+        "id": "629",
+        "level": 5,
+        "word": "四つ",
+        "rom": "yotsu",
+        "hiragana": "よつ",
+        "types": [
+            "Noun",
+            "Numeric"
+        ],
+        "translations": [
+            "four",
+            "4"
+        ]
+    },
+    {
+        "id": "630",
+        "level": 5,
+        "word": "洋服",
+        "rom": "youfuku",
+        "hiragana": "ようふく",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "western clothes"
+        ]
+    },
+    {
+        "id": "631",
+        "level": 5,
+        "word": "八日",
+        "rom": "youka",
+        "hiragana": "ようか",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "eighth day of the month",
+            "8 days"
+        ]
+    },
+    {
+        "id": "632",
+        "level": 5,
+        "word": "弱い",
+        "rom": "yowai",
+        "hiragana": "よわい",
+        "types": [
+            "Adjective",
+            "い-adjective"
+        ],
+        "translations": [
+            "weak"
+        ]
+    },
+    {
+        "id": "633",
+        "level": 5,
+        "word": "雪",
+        "rom": "yuki",
+        "hiragana": "ゆき",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "snow"
+        ]
+    },
+    {
+        "id": "634",
+        "level": 5,
+        "word": "ゆっくり",
+        "rom": "yukkuri",
+        "hiragana": "",
+        "types": [
+            "Adverb"
+        ],
+        "translations": [
+            "slowly"
+        ]
+    },
+    {
+        "id": "635",
+        "level": 5,
+        "word": "昨夜",
+        "rom": "yuube",
+        "hiragana": "ゆうべ",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "last night"
+        ]
+    },
+    {
+        "id": "636",
+        "level": 5,
+        "word": "郵便局",
+        "rom": "yuubinkyoku",
+        "hiragana": "ゆうびんきょく",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "post office"
+        ]
+    },
+    {
+        "id": "637",
+        "level": 5,
+        "word": "夕方",
+        "rom": "yuugata",
+        "hiragana": "ゆうがた",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "evening",
+            "dusk"
+        ]
+    },
+    {
+        "id": "638",
+        "level": 5,
+        "word": "夕飯",
+        "rom": "yuuhan",
+        "hiragana": "ゆうはん",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "evening meal"
+        ]
+    },
+    {
+        "id": "639",
+        "level": 5,
+        "word": "有名",
+        "rom": "yuumei",
+        "hiragana": "ゆうめい",
+        "types": [
+            "Noun",
+            "Adjective",
+            "な-adjective"
+        ],
+        "translations": [
+            "famous"
+        ]
+    },
+    {
+        "id": "640",
+        "level": 5,
+        "word": "雑誌",
+        "rom": "zasshi",
+        "hiragana": "ざっし",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "magazine"
+        ]
+    },
+    {
+        "id": "641",
+        "level": 5,
+        "word": "全部",
+        "rom": "zenbu",
+        "hiragana": "ぜんぶ",
+        "types": [
+            "Noun",
+            "Adverbial Noun"
+        ],
+        "translations": [
+            "all"
+        ]
+    },
+    {
+        "id": "642",
+        "level": 5,
+        "word": "ゼロ",
+        "rom": "zero",
+        "hiragana": "",
+        "types": [
+            "Noun"
+        ],
+        "translations": [
+            "zero"
+        ]
+    },
+    {
+        "id": "643",
+        "level": 5,
+        "word": "ズボン",
+        "rom": "zubon",
+        "hiragana": "",
+        "types": [
+            "Noun",
+            "Katakana"
+        ],
+        "translations": [
+            "trousers",
+            "pants"
+        ]
+    }
+]

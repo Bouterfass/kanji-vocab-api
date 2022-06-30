@@ -1,0 +1,26 @@
+{
+  "name": "kanji-vocab-api",
+  "version": "1.0.0",
+  "description": "A RESTful API to retrieve the japanese vocabulary.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bouterfass/kanji-vocab-api.git"
+  },
+  "keywords": [],
+  "author": "Youcef Bouterfass",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bouterfass/kanji-vocab-api/issues"
+  },
+  "homepage": "https://github.com/Bouterfass/kanji-vocab-api#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongodb": "^4.4.1"
+  }
+}
