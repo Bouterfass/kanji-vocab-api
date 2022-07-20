@@ -104,8 +104,6 @@ app.get('/level/:level/type/:type', (req, res) => {
 })
 
 
-/*
-
-app.listen(80, () => {
+app.listen(process.env.PORT || 5000, () => {
    console.log("Connected on PORT 5000!");
-});*/
+});
