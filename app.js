@@ -67,7 +67,7 @@ app.get('/type/:type', (req ,res) => {
 app.get('/level/:level', (req, res) => {
     const level = parseInt(req.params.level);
 
-    collection.find({"level": level}).toArray((err, docs) => {
+    collection.find({"level": level}).lean(true).toArray((err, docs) => {
         if (err) {
             console.log(err);
             throw err;
