@@ -29,7 +29,7 @@ app.listen(5000, () => {
             console.log("Documents deleted!");
         })
         //Retrieve JLPT files stored in my Google Drive
-        for (let i = 2; i <= 5; i++){
+        for (let i = 2  ; i <= 5; i++){
             let data = JSON.parse(fs.readFileSync(`./JLPT-${i}.json`));
             collection.insertMany(data, (err) => {
                 if (err)
