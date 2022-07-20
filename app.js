@@ -66,6 +66,7 @@ app.get('/type/:type', (req ,res) => {
 
 app.get('/level/:level', (req, res) => {
     const level = parseInt(req.params.level);
+    console.log(`Le level est : ${level}`);
     res.send(level);
     /*collection.find({"level": level}).toArray((err, docs) => {
         if (err) {
