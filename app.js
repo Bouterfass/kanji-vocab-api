@@ -1,7 +1,6 @@
 const express = require('express');
 const BodyParser = require('body-parser');
 const MongoClient = require('mongodb').MongoClient;
-const Mongoose = require('mongoose');
 const ObjectId = require('mongodb').ObjectId;
 const { getAllTypes, parseType } = require('./utils'); 
 require('dotenv').config();
