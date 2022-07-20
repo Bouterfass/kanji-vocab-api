@@ -66,15 +66,14 @@ app.get('/type/:type', (req ,res) => {
 
 app.get('/level/:level', (req, res) => {
     const level = parseInt(req.params.level);
-    console.log(`Le level est : ${level}`);
-    res.send(level);
-    /*collection.find({"level": level}).toArray((err, docs) => {
+
+    collection.find({"level": level}).toArray((err, docs) => {
         if (err) {
             console.log(err);
             throw err;
         }
         res.status(200).json(docs);
-    })*/
+    })
 
 })
 
@@ -106,5 +105,5 @@ app.get('/level/:level/type/:type', (req, res) => {
 
 
 app.listen(process.env.PORT || 5000, () => {
-   console.log("Connected on PORT 5000!");
+   console.log("Connected !");
 });
