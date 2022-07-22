@@ -3,6 +3,7 @@ const BodyParser = require('body-parser');
 const MongoClient = require('mongodb').MongoClient;
 const ObjectId = require('mongodb').ObjectId;
 const { getAllTypes, parseType } = require('./utils'); 
+const path = require('path')
 require('dotenv').config();
 
 
@@ -12,6 +13,7 @@ let app = express();
 
 app.use(BodyParser.json());
 app.use(BodyParser.urlencoded({ extended: true }));
+app.use(express.static(__dirname + '/public'));
 
 
 MongoClient.connect(process.env.CONNECTION_URL, { useNewUrlParser: true }, (error, client) => {
@@ -23,7 +25,7 @@ MongoClient.connect(process.env.CONNECTION_URL, { useNewUrlParser: true }, (erro
 })
 
 app.get('/', (req, res) => {
-    res.send("Home");
+    res.sendFile(path.join(__dirname + "/public/home.html"))
 })
 
 /*              ALL TYPES OF WORDS

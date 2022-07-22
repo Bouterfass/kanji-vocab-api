@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="home.css" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JP vocabulary</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="big-title">
+            <h1>Japanese vocabulary API</h1>
+        </div>
+
+        <div class="box-1">
+            <div class="medium-title">
+                <h2>What is it?</h2>
+            </div>
+            <p>This API allows you to retrieve all the vocabulary you need to start learning japanese.<br />
+                It provides over 1500 words classified by their JLPT (Japanese Language Proficiency Test) levels.
+
+
+            </p>
+        </div>
+
+        <div class="box-2">
+            <div class="medium-title">
+                <h2>Endpoints</h2>
+            </div>
+            <p>
+            <ul>
+                <span class="introduction">Here are the different ways to reach the vocabulary: <br /></span>
+                <li>
+                    by level: the JLPT's levels goes from <span class="important">5</span>, the lowest, to <span
+                        class="important">1</span>, the highest (more commonly called N5 to N1), but it appears that
+                    <span class="warning">there aren't new words to learn at the N1 level</span>.<br />
+                    <div class="form">
+                        <div class="input-field">
+                            <input type="text" value="https://japanese-vocabulary.herokuapp.com/level/[level]"
+                                id="myInput1" />
+                            <button onclick="copyFirst()">copy</button>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    by type of word: <span class="important">Noun, Adverbial-Noun, Verb, Ichidan-verb, Transitive-verb,
+                        Pre-noun-adjectival, Adverb, Godan-verb, Intransitive-verb, Adjective, na-adjective,
+                        i-adjective, Suffix, Expression,
+                        Prefix, Adverbial-noun, Pronoun, Temporal-noun, Katakana, Numeric, Conjunction,
+                        Wasei.</span><br />
+                    <div class="form">
+                        <div class="input-field">
+                            <input type="text" value="https://japanese-vocabulary.herokuapp.com/type/[type]"
+                                id="myInput2" />
+                            <button onclick="copySecond()">copy</button>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <span>both:</span><br />
+                    <div class="form">
+                        <div class="input-field">
+                            <input type="text"
+                                value="https://japanese-vocabulary.herokuapp.com/level/[level]/type/[type]"
+                                placeholder="your level" id="myInput3" />
+                            <button onclick="copyThird()">copy</button>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+            </p>
+        </div>
+
+    </div>
+    
+<script>
+    function copyFirst() {
+      /* Get the text field */
+      var copyText = document.getElementById("myInput1");
+
+    
+      /* Select the text field */
+      copyText.select();
+
+      /* Copy the text inside the text field */
+      navigator.clipboard.writeText(copyText.value);
+      
+      /* Alert the copied text */
+      alert("Copied the text: " + copyText.value);
+    }
+
+    function copySecond() {
+      /* Get the text field */
+      var copyText = document.getElementById("myInput2");
+
+    
+      /* Select the text field */
+      copyText.select();
+
+      /* Copy the text inside the text field */
+      navigator.clipboard.writeText(copyText.value);
+      
+      /* Alert the copied text */
+      alert("Copied the text: " + copyText.value);
+    }
+
+
+    function copyThird() {
+      /* Get the text field */
+      var copyText = document.getElementById("myInput3");
+
+    
+      /* Select the text field */
+      copyText.select();
+
+      /* Copy the text inside the text field */
+      navigator.clipboard.writeText(copyText.value);
+      
+      /* Alert the copied text */
+      alert("Copied the text: " + copyText.value);
+    }
+    </script>
+    
+</body>
+
+</html>
