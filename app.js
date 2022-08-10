@@ -3,7 +3,8 @@ const BodyParser = require('body-parser');
 const MongoClient = require('mongodb').MongoClient;
 const ObjectId = require('mongodb').ObjectId;
 const { getAllTypes, parseType } = require('./utils'); 
-const path = require('path')
+const path = require('path');
+const cors = require('cors');
 require('dotenv').config();
 
 
@@ -14,6 +15,10 @@ let app = express();
 app.use(BodyParser.json());
 app.use(BodyParser.urlencoded({ extended: true }));
 app.use(express.static(__dirname + '/public'));
+app.use(cors({
+    origin: '*',
+    methods: ['GET','POST','DELETE','UPDATE','PUT','PATCH']
+}));
 
 
 MongoClient.connect(process.env.CONNECTION_URL, { useNewUrlParser: true }, (error, client) => {
@@ -24,7 +29,7 @@ MongoClient.connect(process.env.CONNECTION_URL, { useNewUrlParser: true }, (erro
     console.log(`Connect to ${process.env.DATABASE_NAME}`);
 })
 
-app.get('/', (req, res) => {
+app.get('/',cors() ,(req, res) => {
     res.sendFile(path.join(__dirname + "/public/home.html"))
 })
 
@@ -52,7 +57,7 @@ app.get('/', (req, res) => {
     "Conjunction"
     "Wasei"
 */
-app.get('/type/:type', (req ,res) => {
+app.get('/type/:type', cors(), (req ,res) => {
 
     const type = req.params.type;
     
@@ -66,7 +71,7 @@ app.get('/type/:type', (req ,res) => {
     })
 })
 
-app.get('/level/:level', (req, res) => {
+app.get('/level/:level', cors(), (req, res) => {
     const level = parseInt(req.params.level);
 
     collection.find({"level": level}).toArray((err, docs) => {
@@ -79,7 +84,7 @@ app.get('/level/:level', (req, res) => {
 
 })
 
-app.get('/type/:type/level/:level', (req, res) => {
+app.get('/type/:type/level/:level', cors(), (req, res) => {
     const level = parseInt(req.params.level);
     const type = req.params.type;
     collection.find({"level": level, types: parseType(type)}).toArray((err, docs) => {
@@ -92,7 +97,7 @@ app.get('/type/:type/level/:level', (req, res) => {
 
 })
 
-app.get('/level/:level/type/:type', (req, res) => {
+app.get('/level/:level/type/:type', cors(), (req, res) => {
     const level = parseInt(req.params.level);
     const type = req.params.type;
     collection.find({"level": level, types: parseType(type)}).toArray((err, docs) => {
